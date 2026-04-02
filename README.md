@@ -49,8 +49,7 @@ class Cognition:
     def __repr__(self) -> str:
         return (
             f"Cognition(G={self.G:.1f}, N={self.N:.1f}, "
-            f"D={self.D:.1f}, M={self.M:.1f})"
-        )
+            f"D={self.D:.1f}, M={self.M:.1f})"   )
 class CognitiveAgent(Cognition):
     def feedback(self, success: bool):
         """
