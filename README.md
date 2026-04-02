@@ -16,7 +16,6 @@ class Cognition:
         self.N = self.clamp(nous)
         self.D = self.clamp(doxa)
         self.M = self.compute_mecroyance()
-
     @staticmethod
     def clamp(value: float, min_val: float = 0.0, max_val: float = 10.0) -> float:
         """Force la valeur à rester dans l’échelle 0–10."""
@@ -25,10 +24,8 @@ class Cognition:
     def compute_mecroyance(self) -> float:
         """Calcule M selon la formule qualitative : (G + N) − D."""
         return (self.G + self.N) - self.D
-
     def interpret(self) -> str:
         m = self.M
-
         if m < 0:
             return "Zone de clôture cognitive : la certitude excède l’ancrage cognitif."
         elif 0 <= m <= 10:
@@ -43,14 +40,12 @@ class Cognition:
             return "Asymptote idéale : totalité du savoir et de l’intégration, sans rigidification."
         else:
             return "Valeur hors spectre théorique."
-
     def update(self, delta_G: float = 0.0, delta_N: float = 0.0, delta_D: float = 0.0):
         """Ajuste les variables cognitives puis recalcule M."""
         self.G = self.clamp(self.G + delta_G)
         self.N = self.clamp(self.N + delta_N)
         self.D = self.clamp(self.D + delta_D)
         self.M = self.compute_mecroyance()
-
     def __repr__(self) -> str:
         return (
             f"Cognition(G={self.G:.1f}, N={self.N:.1f}, "
@@ -67,7 +62,6 @@ class CognitiveAgent(Cognition):
             self.update(delta_D=0.2)
         else:
             self.update(delta_D=-0.5)
-
         return self.M, self.interpret()
 # Exemples d'utilisation
 scenarios = {
