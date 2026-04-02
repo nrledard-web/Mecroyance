@@ -56,8 +56,6 @@ class Cognition:
             f"Cognition(G={self.G:.1f}, N={self.N:.1f}, "
             f"D={self.D:.1f}, M={self.M:.1f})"
         )
-
-
 class CognitiveAgent(Cognition):
     def feedback(self, success: bool):
         """
@@ -71,8 +69,6 @@ class CognitiveAgent(Cognition):
             self.update(delta_D=-0.5)
 
         return self.M, self.interpret()
-
-
 # Exemples d'utilisation
 scenarios = {
     "complotiste": Cognition(2, 2, 8),
