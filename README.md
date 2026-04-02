@@ -63,14 +63,6 @@ class CognitiveAgent(Cognition):
         else:
             self.update(delta_D=-0.5)
         return self.M, self.interpret()
-# Exemples d'utilisation
-scenarios = {
-    "complotiste": Cognition(2, 2, 8),
-    "professionnel_technique": Cognition(7, 8, 6),
-    "scientifique_autocorrectif": Cognition(9, 9, 2),
-}
-for nom, c in scenarios.items():
-    print(f"{nom.upper()} → M={c.M:.1f} | {c.interpret()}")
 
 
 Édition
