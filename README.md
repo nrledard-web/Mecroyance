@@ -20,7 +20,6 @@ class Cognition:
     def clamp(value: float, min_val: float = 0.0, max_val: float = 10.0) -> float:
         """Force la valeur à rester dans l’échelle 0–10."""
         return max(min_val, min(max_val, value))
-
     def compute_mecroyance(self) -> float:
         """Calcule M selon la formule qualitative : (G + N) − D."""
         return (self.G + self.N) - self.D
@@ -49,7 +48,8 @@ class Cognition:
     def __repr__(self) -> str:
         return (
             f"Cognition(G={self.G:.1f}, N={self.N:.1f}, "
-            f"D={self.D:.1f}, M={self.M:.1f})"   )
+            f"D={self.D:.1f}, M={self.M:.1f})"
+        )
 class CognitiveAgent(Cognition):
     def feedback(self, success: bool):
         """
@@ -62,6 +62,7 @@ class CognitiveAgent(Cognition):
         else:
             self.update(delta_D=-0.5)
         return self.M, self.interpret()
+
 
 
 Édition
