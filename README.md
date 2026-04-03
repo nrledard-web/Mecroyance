@@ -1898,6 +1898,7 @@ desquels l’action devient intelligible — et au sein desquels le
 dommage peut survenir sans tromperie.
 
 Chapitre V — Responsabilité sans tromperie
+
 Mécroyance et les limites de la périphrase juridique
 
 Le raisonnement juridique moderne rencontre fréquemment
@@ -2060,6 +2061,7 @@ du système lui-même.
 
 L’expérience de Stanley Milgram comme cas de
 mécroyance
+
 Obéissance, raisonnement cohérent et
 mécompréhension structurelle
 
@@ -2173,6 +2175,7 @@ cohérente à l’intérieur d’un cadre qui rendait la critique
 éthique structurellement inopérante.
 
 Le procès comme machine de mécroyance —
+
 L'Étranger d’Albert Camus
 
 L’Étranger offre l’une des analyses littéraires les plus précises
