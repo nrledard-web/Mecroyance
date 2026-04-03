@@ -2716,9 +2716,9 @@ Elle l’empêche de devenir ce qu’elle n’a jamais été destinée à
 Table des matières du livre complet
 
 Éléments liminaires
+
 • Résumé
 • Introduction
-Introduction
 • Pourquoi l’erreur a besoin d’un autre nom
 
 Chapitre I — Nommer la zone grise
@@ -2734,11 +2734,13 @@ Chapitre II — Cognition et architecture de la mécompréhension
 • Rationalité sans lucidité
 
 Chapitre III — Clarifications psychologiques et psychiatriques
+
 • Mécroyance et dissonance cognitive
 • Mécroyance et effet Dunning–Kruger
 • Note conclusive : stabilité psychologique et fragilité épistémique
 
 Interlude II
+
 • Ce que ce concept affirme (et n’affirme pas)
 
 Chapitre IV — L’idéologie comme mécroyance stabilisée
@@ -2784,6 +2786,7 @@ Chapitre VII — Précurseurs philosophiques sans le mot
 
 • Transitions conceptuelles : de l’ontologie aux institutions
 • Vers une architecture cognitive
+
 Penseurs individuels
 
 Antiquité (fondations grecques et romaines)
@@ -2816,6 +2819,7 @@ XIXe siècle
 • Karl Marx
 • Alexis de Tocqueville
 • Friedrich Nietzsche
+
 Premières pensées sociales et psychologiques
 • Sigmund Freud
 • Wilhelm von Humboldt
