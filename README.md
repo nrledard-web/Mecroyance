@@ -129,6 +129,7 @@ prématurément.
 Introduction
 
 Pourquoi l’erreur a besoin d’un autre nom
+
 Les sociétés contemporaines sont régulièrement décrites
 comme traversées par la désinformation, les biais cognitifs,
 l’irrationalité ou la mauvaise foi. Ces diagnostics ne sont pas
