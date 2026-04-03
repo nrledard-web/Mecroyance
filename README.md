@@ -2699,21 +2699,29 @@ Table des matières du livre complet
 • Introduction
 Introduction
 • Pourquoi l’erreur a besoin d’un autre nom
+
 Chapitre I — Nommer la zone grise
 • Mécompréhension structurelle et absence d’un concept
+
 Interlude I
 • Amputation conceptuelle et coût de l’absence lexicale
+
 Chapitre II — Cognition et architecture de la mécompréhension
+
 • Succès du modèle vs vérité du modèle
 • Absorption des anomalies et conservation de la cohérence
 • Rationalité sans lucidité
+
 Chapitre III — Clarifications psychologiques et psychiatriques
 • Mécroyance et dissonance cognitive
 • Mécroyance et effet Dunning–Kruger
 • Note conclusive : stabilité psychologique et fragilité épistémique
+
 Interlude II
 • Ce que ce concept affirme (et n’affirme pas)
+
 Chapitre IV — L’idéologie comme mécroyance stabilisée
+
 • Cohérence idéologique et neutralisation de l’anomalie
 • Le dogme religieux comme mécroyance paradigmatique
 • Idéologies séculières et héritage du dogme
@@ -2725,6 +2733,7 @@ Chapitre IV — L’idéologie comme mécroyance stabilisée
 • Vigilance plutôt que démystification
 
 Chapitre V — Responsabilité sans tromperie
+
 • Mécroyance et limites de la périphrase juridique
 • Responsabilité sous mécroyance : deux niveaux
 • Études de cas : responsabilité au sein de cadres structurellement erronés
@@ -2740,17 +2749,22 @@ institutionnelle ?
 • Mécroyance judiciaire : lorsque la compréhension suffit à
 condamner
 • Conclusion : vers une justice vigilante plutôt que certaine
+
 Chapitre VI — Intelligence artificielle et automatisation de la
 mécroyance
+
 • Cohérence à grande échelle et compréhension déléguée
 • Boucles de cohérence
 • Implications opérationnelles
 • IA, certitude et confort de la cohérence
 • Transition finale
+
 Chapitre VII — Précurseurs philosophiques sans le mot
+
 • Transitions conceptuelles : de l’ontologie aux institutions
 • Vers une architecture cognitive
 Penseurs individuels
+
 Antiquité (fondations grecques et romaines)
 • Démocrite
 • Platon
@@ -2774,6 +2788,7 @@ Antiquité (fondations grecques et romaines)
 • Voltaire
 • Baruch Spinoza
 • Immanuel Kant
+
 XIXe siècle
 • Arthur Schopenhauer
 • Søren Kierkegaard
@@ -2788,6 +2803,7 @@ Premières pensées sociales et psychologiques
 • Michael Polanyi
 • Gustave Le Bon
 • Émile Durkheim
+
 XXe siècle — Philosophie, histoire, pouvoir
 • Norbert Elias
 • Edmund Husserl
@@ -2808,14 +2824,17 @@ Littérature et diagnostic existentiel
 • Albert Camus
 • Emil Cioran
 • Franz Kafka
+
 Cognition contemporaine et philosophie de l’esprit
 • Jacques Derrida
 • George Lakoff
 • Daniel Kahneman
 • Steven Sloman
 • Thomas Metzinger
+
 Conclusion épistémologique
 • L’erreur sans opposition
+
 Annexe
 • Distinctions conceptuelles
 • Termes fondamentaux
@@ -2824,6 +2843,7 @@ Annexe
 • Pas de sortie, seulement des cadres
 • Cas paradigmatiques
 • Seuil vers la conclusion
+
 Coda — Le confort de l’erreur
 1. Du diagnostic à la structure
 2. Formalisation qualitative et filiation philosophique
