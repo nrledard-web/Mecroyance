@@ -2990,6 +2990,465 @@ elle rend son intelligence interruptible.
 Elle l’empêche de devenir ce qu’elle n’a jamais été destinée à
 être : une source incontestable de vérité.
 
+Appendix — Distinctions conceptuelles
+Fonction de l’Appendice
+Cet appendice n’ajoute aucun argument nouveau et ne cherche
+pas à convaincre.
+Sa fonction est strictement instrumentale : fournir au lecteur
+une cartographie des notions voisines afin d’éviter les
+équivalences hâtives, les substitutions précipitées ou les
+glissements conceptuels.
+Autour des notions d’erreur, de croyance, de malentendu et
+d’idéologie prolifèrent des termes dont la proximité lexicale
+masque des différences structurelles. Le risque interprétatif est
+constant : assimiler la mécroyance à une catégorie déjà
+existante sur la base d’une ressemblance partielle. Cet
+appendice vise précisément à résister à ce réflexe.
+De nombreux concepts établis décrivent l’erreur.
+D’autres décrivent la croyance, l’ignorance, la tromperie, le
+biais, la fausseté ou l’échec épistémique.
+Certains relèvent de la phénoménologie (comment la
+compréhension se donne), d’autres de la logique (comment le
+raisonnement échoue), d’autres encore de la sociologie ou de
+la théorie politique (comment la croyance fonctionne dans des
+rapports de pouvoir).
+Aucun cependant n’isole la configuration spécifique en jeu ici
+:
+• adhésion sincère plutôt que rejet,
+• cohérence plutôt que contradiction,
+
+• désalignement structurel plutôt qu’erreur locale,
+• confiance plutôt que doute,
+• et persistance de l’erreur précisément parce qu’elle
+fonctionne.
+Les termes existants échouent généralement de trois manières
+systématiques.
+Premièrement, beaucoup opèrent au niveau du contenu. Ils
+désignent ce qui est faux ou mal compris, mais non le cadre
+interprétatif qui rend ce contenu plausible, convaincant et
+résistant à la révision. Ils présupposent une erreur locale,
+corrigible par l’apport d’une information adéquate.
+Deuxièmement, nombre de concepts présupposent une
+opposition à la vérité — par incrédulité, scepticisme,
+tromperie ou mauvaise foi. Ils excluent ainsi le cas où le sujet
+ne résiste pas à la vérité et n’a pas conscience de l’erreur, mais
+raisonne de manière responsable à l’intérieur d’une
+architecture mal conçue.
+Troisièmement, plusieurs notions importent une charge
+normative ou morale : culpabilité, manipulation, distorsion
+idéologique, négligence intellectuelle. La mécroyance, au
+contraire, est définie descriptivement avant de devenir un
+problème éthique ou politique. Elle demeure applicable là où
+aucune faute ne peut être imputée.
+Pour cette raison, aucun terme existant ne peut se substituer à
+la mécroyance sans déformation.
+Au mieux, certains concepts en approchent une dimension
+partielle tout en en omettant d’autres.
+Au pire, ils redirigent l’interprétation vers l’intentionnalité, la
+
+pathologie ou l’opposition, obscurcissant ainsi la structure
+même que le concept vise à rendre visible.
+Les entrées qui suivent doivent donc être lues non comme des
+concurrents, mais comme des voisinages partiels : des notions
+qui effleurent le périmètre de la mécroyance sans en occuper
+le centre. Chacune éclaire, par contraste, ce que la mécroyance
+n’est pas.
+En situant la mécroyance parmi ces concepts voisins sans la
+réduire à aucun d’eux, cet appendice met en évidence un angle
+mort conceptuel plutôt qu’il n’ajoute une étiquette
+supplémentaire à la liste déjà longue des termes désignant
+l’erreur.
+L’objectif n’est pas l’inflation terminologique.
+Il est la précision diagnostique.
+Ne pas disposer d’un terme pour cette condition n’est pas une
+absence neutre. Cela favorise la moralisation de l’erreur, la
+psychologisation du désaccord et la confusion du malentendu
+cohérent avec l’irrationalité ou la mauvaise foi.
+Nommer la mécroyance ne prétend pas abolir l’erreur.
+Il s’agit seulement de rendre intelligible — et donc discutable
+— une forme spécifique et répandue d’erreur, sans la
+dissoudre dans des catégories qui n’ont jamais été conçues
+pour en porter le poids.
+
+Core Terms
+Mécroyance (concept central)
+Condition cognitive dans laquelle un sujet adhère sincèrement
+à un cadre cohérent de compréhension fondé sur des prémisses
+erronées, incomplètes ou mal interprétées, sans intention de
+tromper ni de rejeter la vérité.
+Il s’agit d’un désalignement structurel entre croyance et
+compréhension :
+• la cohérence est préservée,
+• la rationalité opère,
+• la confiance est réelle,
+• mais l’architecture qui rend l’ensemble intelligible
+demeure mal configurée.
+La mécroyance ne désigne ni ignorance brute, ni mensonge, ni
+mauvaise foi.
+Elle décrit une compréhension fonctionnelle qui se stabilise
+malgré un défaut structurel dans ses fondations.
+
+Mécroire (verbe ancien réactivé)
+Croire de manière erronée depuis l’intérieur même de la
+croyance ;
+adhérer sincèrement tout en mécomprenant les fondements, la
+portée ou la signification de ce que l’on tient pour vrai.
+
+Contrairement à l’incrédulité ou au rejet, mécroire ne désigne
+pas une opposition à la vérité, mais une déformation interne
+de la croyance.
+On ne cesse pas de croire.
+On croit à côté.
+Notions voisines et contrastes
+Mécomprendre
+Erreur interprétative locale et généralement corrigible (par
+exemple, mal comprendre une phrase, une donnée ou un
+argument).
+Contrairement à la mécroyance, il ne s’agit pas d’une adhésion
+sincère à un cadre global mal conçu, mais d’un défaut ponctuel
+susceptible d’être rectifié par clarification.
+
+Se méprendre / Méprise
+Erreur portant sur l’identité, la signification ou un fait concret
+(confondre A avec B, attribuer une cause à la mauvaise source,
+etc.).
+Elle est en principe corrigible par confrontation directe avec
+les faits.
+À la différence de la mécroyance, elle est circonstancielle et
+non structurelle.
+
+Méconnaître / Méconnaissance
+
+Défaut de reconnaissance adéquate d’une situation, d’un fait
+ou d’un enjeu.
+Peut impliquer ignorance partielle ou information incomplète,
+mais n’implique pas nécessairement une adhésion engagée à
+un cadre interprétatif erroné.
+La mécroyance suppose, au contraire, une cohérence interne
+stabilisée.
+
+Incrédulité / Suspension d’assentiment
+Refus d’adhérer à une proposition ou à un cadre donné ;
+absence d’assentiment.
+Il s’agit d’une posture de distance ou d’opposition vis-à-vis de
+la croyance.
+La mécroyance, au contraire, ne nie pas la croyance : elle
+l’habite de l’intérieur, avec sincérité et cohérence.
+
+Mécréance
+Rejet actif d’une croyance reconnue (usage fréquemment
+religieux).
+Par nature oppositive, elle est incompatible avec la structure
+interne de la mécroyance.
+La mécréance conteste ; la mécroyance adhère.
+
+Trompeur / Tromperie
+
+Qualifie une information, un discours ou une représentation
+qui induit autrui en erreur.
+Opère au niveau communicationnel et suppose une asymétrie
+ou une causalité externe.
+La mécroyance ne décrit pas une erreur infligée, mais une
+condition cognitive vécue.
+
+Dans chacun de ces cas, l’erreur est soit locale, soit oppositive,
+soit intentionnelle, soit informationnelle.
+Aucune de ces notions n’isole la configuration spécifique où
+cohérence, sincérité et désalignement structurel coexistent sans
+opposition ni mauvaise foi.
+Erreurs logiques et épistémiques
+Paralogisme (erreur non intentionnelle)
+Erreur logique involontaire dans un raisonnement.
+Un paralogisme peut survenir à l’intérieur d’une mécroyance,
+mais la mécroyance ne se réduit pas à une inférence invalide
+isolée. Elle concerne le cadre des prémisses lui-même, non un
+simple défaut formel ponctuel.
+
+Sophisme (erreur intentionnelle)
+Argument fallacieux mobilisé avec une intention persuasive ou
+trompeuse.
+Incompatible avec la mécroyance, qui exclut par définition
+toute stratégie de manipulation consciente.
+
+Généralisation abusive
+Extension illégitime d’un principe valide au-delà de son
+domaine légitime d’application.
+Souvent locale, elle peut néanmoins devenir structurante si elle
+organise progressivement un cadre interprétatif entier.
+Point d’entrée fréquent dans la mécroyance.
+
+Confusion conceptuelle
+Incapacité à distinguer des notions proches mais non
+équivalentes.
+Généralement corrigible par clarification externe ; toutefois, si
+elle persiste et s’intègre à un système de pensée, elle peut
+devenir structurelle.
+
+Cadres épistémiques et sociaux
+Paradigme
+Ensemble partagé de présupposés, de cadres interprétatifs et de
+critères au sein d’une communauté.
+La mécroyance peut émerger à l’intérieur d’un paradigme
+lorsque ses prémisses sont intériorisées sous forme simplifiée,
+rigidifiée ou déformée.
+
+Opacité épistémique
+Inaccessibilité, pour le sujet, des présupposés ou des
+mécanismes internes du cadre qu’il utilise.
+La mécroyance surgit fréquemment dans des conditions
+d’opacité épistémique, sans toutefois s’y réduire : l’opacité
+décrit un état, la mécroyance une stabilisation.
+
+Posture épistémique
+Disposition durable par laquelle des croyances sont formées,
+évaluées et stabilisées.
+La mécroyance ne décrit pas un contenu de croyance
+particulier, mais une posture structurelle à l’égard de la
+compréhension elle-même.
+
+Inertie interprétative
+Persistance d’un cadre interprétatif malgré l’accumulation
+d’anomalies.
+Phénomène secondaire par rapport à la mécroyance : l’inertie
+entretient la condition, mais ne la définit pas.
+
+Dogmatisme non doctrinal
+Rigidité cognitive indépendante d’une idéologie ou d’une
+doctrine explicite.
+
+Souvent effet prolongé d’une mécroyance stabilisée plutôt que
+sa cause première.
+
+Dérive sémantique
+Déplacement progressif du sens d’un concept par rapport à son
+référent initial.
+Lorsque cette dérive structure un cadre interprétatif entier, la
+mécroyance peut s’installer sans être perçue.
+
+Dans chacun de ces cas, il s’agit soit d’un mécanisme partiel,
+soit d’une condition contributive.
+La mécroyance, elle, désigne la configuration où ces éléments
+convergent en un état stable de cohérence désalignée.
+Positions philosophiques
+
+Scepticisme
+Suspension méthodique du jugement en situation d’incertitude.
+Met le doute au premier plan.
+Structurellement opposé à la mécroyance, qui repose au
+contraire sur une cohérence vécue comme suffisante.
+
+Agnosticisme
+Suspension volontaire du jugement à l’égard de propositions
+tenues pour indécidables ou insuffisamment justifiées.
+
+Défini par le non-engagement.
+La mécroyance, elle, implique adhésion et stabilisation.
+
+Hérésie
+Divergence doctrinale consciente par rapport à une orthodoxie
+reconnue.
+Geste explicite, souvent assumé.
+À la différence de la mécroyance, l’hérésie est généralement
+délibérée et oppositive, non structurellement méconçue.
+
+Clarificateurs techniques contemporains
+Conception erronée persistante
+Croyance incorrecte durable, fréquemment analysée en
+contexte pédagogique.
+Proche de la mécroyance, mais insuffisant : vise l’erreur au
+niveau du contenu, non le désalignement d’un cadre entier.
+
+Croyance fausse
+Catégorie trop large, englobant ignorance, accident, tromperie
+ou désinformation.
+La mécroyance restreint le champ : elle spécifie la sincérité, la
+cohérence et le caractère structurel des prémisses.
+
+Mauvaise foi
+Implique auto-tromperie intentionnelle ou faute morale.
+Explicitement exclue de la mécroyance, qui ne suppose ni
+manipulation ni volonté de se dissimuler la vérité.
+
+Biais cognitif
+Déviation systématique dans le jugement ou l’évaluation.
+Opère au niveau de l’inférence, de l’attention ou des
+préférences.
+Ne suffit pas à décrire une adhésion structurée à un cadre
+global.
+
+Fausse conscience
+Concept socio-politique désignant une distorsion idéologique
+liée à des rapports de domination.
+Normativement chargé et historiquement situé.
+La mécroyance, quant à elle, est descriptive et transversale :
+elle peut exister indépendamment de toute manipulation ou
+oppression explicite.
+
+Ces notions éclairent chacune une dimension partielle de
+l’erreur ou de la croyance.
+Aucune ne capture la configuration spécifique où cohérence,
+sincérité et désalignement structurel coexistent sans opposition
+ni faute consciente.
+
+Incompatibilités et relations conditionnelles
+Logique trompeuse
+Incompatibilité ontologique.
+La tromperie suppose la conscience de la fausseté ou du
+caractère manipulatoire de l’argument.
+La mécroyance repose précisément sur l’absence de cette
+conscience.
+Il n’y a ni stratégie ni duplicité.
+Il y a adhésion sincère à un cadre mal configuré.
+
+Rationalisation fallacieuse
+Compatibilité conditionnelle.
+Elle apparaît lorsque la mécroyance se rigidifie et commence à
+se défendre activement.
+À ce stade, la cohérence ne se contente plus de fonctionner ;
+elle se protège.
+Les ajustements deviennent défensifs, les anomalies sont
+neutralisées, les distorsions s’installent.
+La rationalisation n’est pas constitutive de la mécroyance.
+Elle en est un possible développement — lorsque le cadre,
+menacé, cherche à se préserver.
+
+Termes les plus proches de la mécroyance
+(Correspondances partielles, non équivalentes)
+
+Conception erronée persistante
+Croyance incorrecte durable, souvent traitée en contexte
+pédagogique.
+Elle vise l’erreur au niveau de ce qui est cru, non au niveau de
+la structure qui rend cette croyance intelligible.
+Une telle erreur peut être corrigée par explication ; la
+mécroyance persiste parce que le cadre même qui permettrait
+de reconnaître la correction est désaligné.
+
+Compréhension illusoire
+Sentiment subjectif d’avoir compris adéquatement.
+Ce terme décrit le ressenti interne de la compréhension, mais
+reste muet sur l’architecture cognitive qui produit ce
+sentiment.
+La mécroyance explique pourquoi cette impression est stable
+et persuasive.
+
+Fondement axiomatique erroné
+Axiome mal compris ou mal intériorisé générant un monde
+interprétatif cohérent mais faux.
+Structurellement proche, mais abstrait.
+
+Il ne rend pas compte de la posture épistémique vécue — la
+confiance sincère et le raisonnement responsable — qui
+caractérise la mécroyance comme condition cognitive.
+
+Cohérence illusoire
+Cohérence interne séduisante qui stabilise l’erreur.
+Ce terme désigne un effet — l’attraction de la cohérence —
+plutôt qu’un état stabilisé d’adhésion.
+La mécroyance explique pourquoi cette cohérence devient
+habitée, défendue et vécue comme suffisante.
+
+Enracinement du cadre
+Rigidification progressive d’un schéma interprétatif résistant à
+la révision.
+Décrit un processus dynamique, non l’état subjectif
+d’habitation.
+La mécroyance nomme la condition stabilisée lorsque cet
+enracinement est devenu normalité.
+
+Clôture épistémique
+
+Système de croyances auto-étanche, protégé contre les contre-
+exemples.
+
+Souvent un stade avancé de mécroyance, mais non équivalent
+à elle.
+
+La mécroyance peut exister avant toute clôture manifeste,
+lorsque l’ouverture aux preuves demeure formellement intacte.
+
+Surajustement du modèle (analogie)
+Modèle parfaitement ajusté à ses données internes, incapable
+de généraliser vers l’extérieur.
+Analogie structurante mais métaphorique.
+Elle ne saisit pas la dimension d’agentivité et de croyance
+vécue centrale à la mécroyance.
+
+Complaisance épistémique
+Satisfaction prématurée quant à son niveau de compréhension.
+Décrit un ton affectif possible, non l’architecture sous-jacente.
+La complaisance peut accompagner la mécroyance sans en
+expliquer la cohérence.
+
+Pseudo-compréhension
+Compréhension fonctionnelle ou procédurale sans accès aux
+principes sous-jacents.
+Terme limité à des contextes pédagogiques ou techniques.
+La mécroyance concerne des cadres structurant des visions du
+monde entières.
+
+Croyance mal posée
+Croyance fondée sur des prémisses mal spécifiées ou
+incohérentes.
+Met l’accent sur la qualité d’une croyance isolée plutôt que sur
+le système cohérent qui l’organise.
+
+Réification
+Traitement d’abstractions ou de modèles comme réalités
+concrètes.
+Peut constituer un composant de la mécroyance, sans en
+épuiser la structure globale.
+
+Domestication cognitive
+Réduction de la complexité afin de rendre le réel
+cognitivement gérable.
+Décrit un processus adaptatif.
+La mécroyance désigne le résultat stabilisé : un monde
+simplifié mais cohérent, vécu comme suffisant.
+
+Fixation herméneutique
+Dépendance persistante à un schéma interprétatif unique.
+Rend compte de la rigidité, non de la confiance épistémique
+vécue.
+
+La mécroyance implique non seulement fixation, mais
+conviction sincère d’adéquation.
+
+Satisficing cognitif
+Acceptation d’explications « suffisamment bonnes » plutôt
+qu’optimales.
+Heuristique décisionnelle, non condition globale d’habitation
+interprétative.
+La mécroyance apparaît lorsque cette suffisance devient
+architecture incontestée.
+
+Défaillance du sens
+Effondrement de la production de signification.
+Inverse exact de la mécroyance.
+La mécroyance n’est pas un échec du sens, mais un succès
+apparent qui masque son désalignement.
+
+Vérité interne fausse
+Formulation suggérant une validité interne mais une fausseté
+externe.
+Réduite à un paradoxe de valeurs de vérité, elle manque le
+point essentiel :
+la mécroyance concerne la mauvaise calibration des critères
+mêmes de vérité et de pertinence.
+
+Pourquoi aucun de ces termes ne suffit
+Chacun capture un axe partiel :
+cohérence, confiance, stabilité, désalignement, attraction.
+Aucun ne satisfait simultanément les cinq contraintes
+définitoires :
+1. Adhésion sincère
+2. Cohérence interne
+3. Désalignement au niveau du cadre
+4. Absence de tromperie ou de rejet
+5. Stabilisation par succès fonctionnel
+La mécroyance nomme l’intersection de ces dimensions —
+non leurs fragments.
+
 Table des matières du livre complet
 
 Éléments liminaires
