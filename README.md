@@ -2882,12 +2882,19 @@ Coda — Le confort de l’erreur
 Conclusion finale
 • Vers une ontologie de la mécompréhension et une éthique de la prudence
 intellectuelle
+
 • Note finale sur la vigilance artificielle et l’alignement de l’IA
 Cinq règles de prudence intellectuelle
+
 • Règle I — Nommer le cadre avant de juger la croyance
+
 • Règle II — Traiter la cohérence comme un signal d’alerte
+
 • Règle III — Distinguer responsabilité et intention
+
 • Règle IV — Interroger ce qui ne peut être questionné
+
 • Règle V — Préférer la vigilance à la certitude
+
 Note finale
 • Sur l’impossibilité d’une immunité épistémique
