@@ -85,145 +85,102 @@ for nom, c in scenarios.items():
 ```
 
 
-# Derived Models
+## Modèles dérivés
 
-The foundational equation can be reformulated depending on what we want to observe.
+L’équation fondatrice peut être reformulée selon ce que l’on cherche à observer dans un système cognitif.
 
----
+### 1. Surconfiance (Asymétrie)
 
-## 1. Overconfidence (Asymmetry)
-
-\[
 M = D - (G + N)
-\]
 
-Measures **excess certainty**.
+Mesure l’excès de certitude par rapport à l’ancrage cognitif.
 
----
+### 2. Mauvaise calibration relative (Ratio)
 
-## 2. Relative Miscalibration (Ratio)
+M = D / (G + N)
 
-\[
-M = \frac{D}{G + N}
-\]
+> 1 → surconfiance  
+= 1 → équilibre  
+< 1 → prudence
 
-- **> 1** → overconfidence  
-- **= 1** → balance  
-- **< 1** → caution  
+### 3. Révisabilité
 
----
-
-## 3. Revisability
-
-\[
 R = (G + N + E) - D
-\]
 
-- **E** = exposure to contradiction  
+E = exposition à la contradiction.
 
-Measures the **capacity for correction**.
+Mesure la capacité d’un système à se corriger.
 
----
+### 4. Clôture cognitive
 
-## 4. Cognitive Closure
+M = (D × S) / (G + N)
 
-\[
-M = \frac{D \times S}{G + N}
-\]
+S = rigidité structurelle.
 
-- **S** = structural rigidity  
+Explique la persistance des systèmes idéologiques.
 
-Explains ideological persistence.
+### 5. Potentiel cognitif
 
----
-
-## 5. Cognitive Potential
-
-\[
 V = D - (G + N)
-\]
 
-Beliefs behave like stable states:
+Les croyances se comportent comme des états stables :
 
-- low potential → flexible cognition  
-- high potential → rigid stability
+faible potentiel → cognition flexible  
+fort potentiel → stabilité rigide
 
----
+### 6. Champ cognitif
 
-## 6. Cognitive Field
+F = D / (G + N)
 
-\[
-F = \frac{D}{G + N}
-\]
+La certitude agit comme un attracteur :
 
-Certainty acts as an **attractor**:
+les nouvelles informations sont réinterprétées pour s’y conformer  
+les contradictions sont absorbées
 
-- new information is pulled toward existing beliefs  
-- contradictions are absorbed.
+### 7. Courbure cognitive
 
----
+κ ≈ D / (G + N)
 
-## 7. Cognitive Curvature
+La certitude courbe l’espace interprétatif.
 
-\[
-\kappa \approx \frac{D}{G + N}
-\]
+Les faits ne sont pas rejetés : ils suivent la courbure du cadre cognitif.
 
-Certainty **bends interpretive space**.
+### 8. Modèle géométrique
 
-Facts are not rejected; they follow the curvature of the framework.
+Espace cognitif bidimensionnel :
 
----
+Axe X → ancrage (G + N)  
+Axe Y → certitude (D)
 
-## 8. Geometric Model
+La mécroyance apparaît lorsque :
 
-Two-dimensional cognitive space:
-
-- **X-axis** → grounding (G + N)  
-- **Y-axis** → certainty (D)
-
-Mécroyance appears when:
-
-\[
 D > G + N
-\]
 
----
+### 9. Modèle dynamique
 
-## 9. Dynamic Model
+Mₜ = (Gₜ + Nₜ) − Dₜ
 
-\[
-M_t = (G_t + N_t) - D_t
-\]
+Évolution dans le temps :
 
-Evolution over time:
+ΔM = Δ(G + N) − ΔD
 
-\[
-\Delta M = \Delta(G+N) - \Delta D
-\]
+Permet d’analyser :
 
-This allows analysis of:
+- dérive idéologique  
+- inflation épistémique  
+- fermeture cognitive
 
-- ideological drift  
-- epistemic inflation  
-- cognitive closure.
+## Insight final
 
----
+La mécroyance ne détermine pas ce qui est vrai.
 
-# Final Insight
+Elle identifie le moment où un système cognitif ne peut plus détecter ses propres erreurs.
 
-Mécroyance does not determine **what is true**.
+## Définition en une phrase
 
-It identifies **when a cognitive system can no longer detect its own error**.
+La mécroyance survient lorsque la cohérence dépasse la capacité du système à se réviser lui-même.
 
----
-
-# One Sentence Definition
-
-**Mécroyance occurs when coherence exceeds the system’s ability to revise itself.**
-
-
----
+```
 
 Édition
 Un monde de mécroyants
