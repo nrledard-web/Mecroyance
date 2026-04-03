@@ -3641,50 +3641,144 @@ Note finale
 
 
 
-# Mécroyance
-### A Structural Model of Coherent Misunderstanding
+# Mécroyance — A Structural Model of Coherent Misunderstanding
+
+# Derived Models
+
+The foundational equation can be reformulated depending on what we want to observe.
 
 ---
 
-## Core Equation
+## 1. Overconfidence (Asymmetry)
 
 \[
-M = (G + N) - D
+M = D - (G + N)
 \]
 
-Where:
-
-- **G** → articulated knowledge *(gnōsis)*
-- **N** → integrated experience *(nous)*
-- **D** → certainty *(doxa)*
-- **M** → mécroyance *(structural misalignment)*
+Measures **excess certainty**.
 
 ---
 
-## What the Model Measures
+## 2. Relative Miscalibration (Ratio)
 
-This model does **not evaluate truth**.
+\[
+M = \frac{D}{G + N}
+\]
 
-It measures something more fundamental:
-
-> **the gap between grounding and certainty**
-
-A system may be coherent, rational, and functional — yet structurally misaligned with reality.
-
-Mécroyance names this condition.
+- **> 1** → overconfidence  
+- **= 1** → balance  
+- **< 1** → caution  
 
 ---
 
-# Interpretation Spectrum
+## 3. Revisability
 
-| M value | Cognitive State |
-|------|------|
-| **M < 0** | Cognitive closure (certainty exceeds grounding) |
-| **0 ≤ M ≤ 10** | Stable but revisable cognition |
-| **10 < M ≤ 17** | Increasing epistemic lucidity |
-| **17 < M < 19** | Rare highly reflexive cognition |
-| **19 ≤ M < 20** | Hypothetical pan-sapience |
-| **M = 20** | Ideal asymptote |
+\[
+R = (G + N + E) - D
+\]
+
+- **E** = exposure to contradiction  
+
+Measures the **capacity for correction**.
+
+---
+
+## 4. Cognitive Closure
+
+\[
+M = \frac{D \times S}{G + N}
+\]
+
+- **S** = structural rigidity  
+
+Explains ideological persistence.
+
+---
+
+## 5. Cognitive Potential
+
+\[
+V = D - (G + N)
+\]
+
+Beliefs behave like stable states:
+
+- low potential → flexible cognition  
+- high potential → rigid stability
+
+---
+
+## 6. Cognitive Field
+
+\[
+F = \frac{D}{G + N}
+\]
+
+Certainty acts as an **attractor**:
+
+- new information is pulled toward existing beliefs  
+- contradictions are absorbed.
+
+---
+
+## 7. Cognitive Curvature
+
+\[
+\kappa \approx \frac{D}{G + N}
+\]
+
+Certainty **bends interpretive space**.
+
+Facts are not rejected; they follow the curvature of the framework.
+
+---
+
+## 8. Geometric Model
+
+Two-dimensional cognitive space:
+
+- **X-axis** → grounding (G + N)  
+- **Y-axis** → certainty (D)
+
+Mécroyance appears when:
+
+\[
+D > G + N
+\]
+
+---
+
+## 9. Dynamic Model
+
+\[
+M_t = (G_t + N_t) - D_t
+\]
+
+Evolution over time:
+
+\[
+\Delta M = \Delta(G+N) - \Delta D
+\]
+
+This allows analysis of:
+
+- ideological drift  
+- epistemic inflation  
+- cognitive closure.
+
+---
+
+# Final Insight
+
+Mécroyance does not determine **what is true**.
+
+It identifies **when a cognitive system can no longer detect its own error**.
+
+---
+
+# One Sentence Definition
+
+**Mécroyance occurs when coherence exceeds the system’s ability to revise itself.**
 
 ---
 
