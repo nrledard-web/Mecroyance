@@ -222,9 +222,6 @@ It identifies **when a cognitive system can no longer detect its own error**.
 
 **Mécroyance occurs when coherence exceeds the system’s ability to revise itself.**
 
-# Geometric Model
-
-Cognitive space can be visualized as:
 
 ---
 
