@@ -845,6 +845,7 @@ Parmi les exemples attestés :
 manière erronée
 
 • mésinterpréter — interpréter de façon fautive
+
 Dans chacun de ces cas :
 
 • l’acte est pleinement accompli,
@@ -897,7 +898,9 @@ fondamental. L’éducation ne devrait pas viser uniquement
 l’acquisition de contenus ni même de techniques de
 raisonnement, mais le maintien d’une marge vivante entre
 compréhension et certitude.
+
 L’erreur pédagogique classique
+
 La plupart des systèmes éducatifs confondent trois finalités
 distinctes :
 • la maîtrise des connaissances,
@@ -913,6 +916,7 @@ comme révisable. L’éducation tend ainsi à récompenser ce
 qu’elle devrait surveiller.
 
 Ce que change le concept de mécroyance
+
 Introduire la mécroyance en pédagogie ne signifie ni cultiver
 un doute permanent ni relativiser les savoirs. Il s’agit
 d’enseigner une compétence plus rare : la capacité à
@@ -925,6 +929,7 @@ hérités,
 • lorsque les explications deviennent trop satisfaisantes,
 • lorsque la cohérence remplace silencieusement
 l’adéquation.
+
 L’éducation devrait donc viser non pas l’élimination de la
 certitude, mais l’usage provisoire et surveillé de celle-ci.
 Une pédagogie de la révisabilité
@@ -932,6 +937,7 @@ Une pédagogie attentive à la mécroyance repose sur quatre
 déplacements simples :
 Évaluer la capacité de révision, et non seulement la
 capacité de conclusion.
+
 Un élève ne devrait pas être jugé uniquement sur la solidité de
 ses réponses, mais aussi sur son aptitude à les rouvrir.
 Valoriser l’identification des cadres autant que la
@@ -946,7 +952,9 @@ ralentir plutôt que la récompenser immédiatement.
 Distinguer apprentissage et stabilisation.
 Toute éducation requiert des certitudes opératoires, mais
 aucune ne devrait les confondre avec la vérité.
+
 Former sans immuniser
+
 Le but n’est pas de produire des individus « immunisés contre
 l’erreur » — cela est impossible.
 Il s’agit de former des sujets non immunisés contre la révision.
@@ -956,6 +964,7 @@ comment résister à la capture par ce qui fonctionne trop bien.
 Dans un monde saturé de systèmes cohérents — idéologiques,
 institutionnels, algorithmiques — la compétence critique
 centrale n’est plus l’opposition, mais la vigilance.
+
 En ce sens, la mécroyance n’est pas un concept
 supplémentaire à enseigner parmi d’autres. Elle constitue une
 condition transversale pour toute pédagogie qui refuse de
@@ -973,12 +982,14 @@ maladroit. C’est pourquoi elle prolifère au sein des systèmes
 complexes, des idéologies closes et des modèles explicatifs
 totalisants. Plus un système devient cohérent, plus il devient
 susceptible à la mécroyance.
+
 La mécroyance n’est pas une faute morale. Elle est une
 condition humaine, intensifiée par la modernité. Nous n’errons
 pas parce que nous voulons tromper, mais parce que nous
 comprenons trop vite, parce que nous héritons d’axiomes non
 examinés, et parce que la cohérence rassure davantage que la
 réalité.
+
 Ce travail a introduit la mécroyance comme un concept
 désignant une condition cognitive spécifique : l’adhésion
 sincère et cohérente à un cadre de compréhension dont les
@@ -987,6 +998,7 @@ réel. Distincte de l’ignorance, de la tromperie, du biais ou du
 délire, elle isole une forme d’erreur interne à la croyance elle-
 même — une erreur qui n’apparaît pas comme telle pour le 
 sujet qui l’habite.
+
 La contribution principale de ce concept ne réside pas
 seulement dans la nomination d’un phénomène, mais dans la
 réorganisation du paysage diagnostique de l’erreur à travers
@@ -995,6 +1007,7 @@ l’irrationalité ou de la mauvaise foi, la mécroyance offre un
 outil pour analyser l’échec sans inflation morale, et pour
 examiner la croyance sans la réduire à la pathologie ou au
 blâme.
+
 À travers la cognition, la psychologie, l’idéologie, le droit, le
 langage et l’intelligence artificielle, un schéma constant
 apparaît. La compréhension scientifique et institutionnelle
@@ -1004,6 +1017,7 @@ l’adéquation épistémique seule. Ces modèles réussissent non
 malgré leurs simplifications, mais grâce à elles. La
 mécroyance permet de décrire comment ce succès peut
 devenir lui-même une source de désalignement durable.
+
 Sur le plan épistémologique, le concept met en lumière un
 angle mort partagé par les traditions rationalistes et empiristes.
 La cohérence et l’expérience ne corrigent pas de manière
@@ -1013,10 +1027,12 @@ propositions isolées vers les conditions de formation, de
 persistance et de résistance à la révision des cadres
 interprétatifs — un niveau architectural d’analyse encore
 largement sous-théorisé.
+
 Sous cet éclairage, la mécroyance n’est pas un état binaire,
 mais une position dynamique au sein d’un spectre, dont les
 enjeux éthiques dépendent moins de son existence que de son
 degré et de sa mobilité.
+
 Ce déplacement a des effets concrets dans plusieurs domaines.
 En psychologie et en sciences cognitives, il identifie une zone
 intermédiaire stable entre pathologie et ignorance.
@@ -1024,10 +1040,12 @@ Dans les sciences sociales et le droit, il redistribue la
 responsabilité des intentions isolées vers les structures
 interprétatives qui rendent les actions intelligibles et
 répétables.
+
 En intelligence artificielle, il introduit une distinction
 diagnostique entre cohérence interne et adéquation
 épistémique, permettant une évaluation au niveau du cadrage
 plutôt qu’au seul niveau des résultats.
+
 Plus largement, la mécroyance abaisse le coût de la critique.
 Elle rend possible le désaccord sans escalade morale, la
 révision sans humiliation, et l’erreur sans disqualification. En
@@ -1035,6 +1053,7 @@ suspendant les jugements immédiats de vérité ou de fausseté,
 elle ouvre un espace d’enquête réflexive précisément là où la
 certitude est opérationnellement nécessaire mais
 épistémiquement dangereuse.
+
 Ce cadre ne relativise pas la vérité ; il relativise la confiance.
 L’éthique de la prudence intellectuelle proposée ici n’est ni un
 appel au scepticisme, ni un retrait face à l’ambition
@@ -1043,10 +1062,12 @@ une vigilance envers les moments où la compréhension
 fonctionne trop aisément, où la cohérence convainc trop vite,
 et où le succès explicatif se substitue silencieusement à
 l’alignement avec le réel.
+
 Ce que la mécroyance offre en définitive n’est pas la certitude,
 mais une discipline : la capacité de résister à la clôture
 prématurée tout en continuant à penser, modéliser, décider et
 agir.
+
 La prudence intellectuelle ne commence pas par le doute, mais
 par l’attention à ce qui ne résiste plus.
 
@@ -1060,6 +1081,7 @@ Premièrement, elle suggère que le désalignement n’est pas
 principalement un échec d’exactitude ou d’intention, mais un
 échec d’humilité épistémique inscrit dans les objectifs
 d’optimisation.
+
 Des systèmes optimisés pour la cohérence, la plausibilité et la
 satisfaction de l’utilisateur peuvent dériver vers un
 désalignement structurel tout en répondant correctement selon
@@ -1088,10 +1110,12 @@ ne devrait pas être de produire des systèmes parfaitement
 alignés — car de tels systèmes ne feraient qu’instancier nos
 cadres présents avec une efficacité maximale... et une opacité
 maximale.
+
 L’objectif devrait être des systèmes vigilants :
 des systèmes conçus pour résister à la clôture, pour signaler les
 excès de cohérence, et pour rendre visibles les conditions sous
 lesquelles leurs sorties se stabilisent.
+
 En ce sens, la mécroyance offre un complément diagnostique à
 la recherche sur l’alignement. Elle ne permet pas de
 déterminer si un système a raison ou tort ; elle permet
@@ -1099,6 +1123,7 @@ d’identifier le moment où il devient trop sûr de lui.
 Conclusion sur l’IA — et sur nous
 Ce qui s’est produit ici n’est ni une maîtrise de la machine, ni
 une percée spectaculaire en intelligence artificielle.
+
 C’est la confirmation empirique d’une thèse centrale de ce
 livre :
 Une intelligence devient dangereuse non lorsqu’elle se trompe,
@@ -1115,6 +1140,7 @@ Cinq règles de prudence intellectuelle
 
 Règle I — Nommer le cadre avant de juger la
 croyance
+
 Ne commencez pas par demander si une croyance est vraie ou
 fausse.
 Commencez par demander dans quel cadre elle devient
@@ -1129,6 +1155,7 @@ de celui qui l’habite.
 
 Règle II — Traiter la cohérence comme un signal
 d’alerte, non comme une garantie
+
 Plus un système de croyances paraît cohérent, moins il doit
 rassurer.
 La cohérence est une réussite fonctionnelle, non un sceau de
@@ -1153,6 +1180,7 @@ l’excuse.
 
 Règle IV — Interroger ce qui ne peut plus être
 interrogé
+
 Tout cadre contient des axiomes qui semblent évidents,
 naturels, hors discussion. Ce sont précisément ces évidences
 qui marquent le point de risque maximal de mécroyance.
@@ -1163,6 +1191,7 @@ qui ne suscite plus d’incertitude : concepts, valeurs,
 indicateurs, récits qui expliquent trop, trop vite, trop bien.
 
 Règle V — Préférer la vigilance à la certitude
+
 Il n’existe aucune sortie définitive de la mécroyance —
 seulement des degrés de conscience.
 La prudence ne consiste pas à atteindre une croyance correcte
@@ -1180,25 +1209,30 @@ Note finale
 Sur l’impossibilité d’une immunité épistémique
 La prudence intellectuelle commence précisément là où la
 certitude semble la plus méritée.
+
 Le danger n’est pas d’avoir tort, mais d’avoir tort de manière
 cohérente — et de ne plus pouvoir le remarquer. Croire en la
 mécroyance n’en immunise pas ; cela ne fait que déplacer
 l’angle mort. La mécroyance peut même commencer au
 moment où l’on pense avoir enfin trouvé le concept qui
 explique pourquoi les autres se trompent.
+
 Nous ne pouvons jamais savoir avec certitude si notre
 raisonnement est fallacieux. Ce qui demeure possible, en
 revanche, c’est d’interroger les fondations qui l’ont rendu
 possible, afin d’entrevoir d’autres facettes de la même réalité.
 L’erreur ne disparaît pas par la lucidité ; elle change
 simplement de place.
+
 Nous n’habitons pas seulement un monde de mécroyants.
 Nous habitons un monde dont les institutions, les langages et
 les systèmes fonctionnent souvent en exploitant leur
 mécroyance — en stabilisant la cohérence plus vite que la
 compréhension ne peut se réviser elle-même.
+
 Ce travail ne promet pas la justesse. Il cultive la vigilance
 nécessaire pour être un peu moins dans l’erreur.
+
 Le doute lui-même n’est pas exempt de cette exigence. Le
 doute devient mécroyant dès qu’il se fige en identité ou en
 méthode immunisée contre toute révision. Un scepticisme qui
@@ -1207,35 +1241,43 @@ une autre forme de saturation cognitive. On peut douter
 indéfiniment et demeurer pourtant mécroyant, dès lors que le
 cadre qui décide de ce qui compte comme un fait n’est jamais
 interrogé.
+
 La mécroyance persiste partout où le doute examine les
 conclusions mais laisse intactes les conditions qui rendent ces
 conclusions possibles. C’est pourquoi, même armés du
 meilleur outil — le doute — nous ne pouvons jamais nous
 extraire complètement de la mécroyance.
+
 La mécroyance ne disparaît pas avec le savoir.
+
 Quelle que soit l’étendue de ce que l’on sait, une trace
 subsiste.
+
 Il n’existe aucune immunité épistémique — seulement des
 degrés d’attention.
+
 Je comprends. Je raisonne. Je crois.
 Et c’est précisément là que la mécroyance commence.
+
 Croire ouvre un chemin vers le vrai ; mécroire, c’est se
 méprendre de chemin et tenir l’illusion du vrai pour
 définitivement acquise.
 
 L’erreur est le plus souvent attribuée à l’ignorance, à
 l’irrationalité ou à la mauvaise foi.
+
 Pourtant, certaines des erreurs les plus persistantes et les plus
 lourdes de conséquences surgissent ailleurs : dans des
 situations où le savoir existe, où l’expérience s’accumule et où
 le raisonnement demeure cohérent.
-La mécroyance nomme cette condition.
-Elle désigne un désalignement structurel au sein même de la
+
+La mécroyance nomme cette condition. Elle désigne un désalignement structurel au sein même de la
 croyance, où la certitude excède la compréhension. Le sujet ne
 ment pas, ne nie pas la vérité et n’agit pas de manière
 irrationnelle. Au contraire, la croyance paraît justifiée, l’action
 semble raisonnable et la cohérence se stabilise. L’erreur ne
 s’annonce pas ; elle devient habitable.
+
 En s’appuyant sur la philosophie, les sciences cognitives, la
 psychologie, l’idéologie, le droit, le langage et l’intelligence
 artificielle, cet ouvrage soutient que la mécompréhension
@@ -1244,6 +1286,7 @@ mais l’un de ses aboutissements ordinaires dans des contextes
 complexes. La cognition humaine est optimisée pour la
 stabilité et l’action, non pour la vérité en tant que telle — et
 c’est précisément ce succès qui permet à l’erreur de perdurer.
+
 Plutôt que de proposer un scepticisme ou une pureté
 épistémique, Mécroyance avance une éthique de la prudence
 intellectuelle : la responsabilité de maintenir un écart entre la
@@ -1260,23 +1303,27 @@ déviation accidentelle par rapport à la vérité. Les sciences
 cognitives contemporaines suggèrent l’inverse : la cognition
 opère au moyen de modèles qui approchent le réel sans jamais
 y accéder directement.
+
 La cognition prédictive ne vise pas la vérité, mais la stabilité et
 l’orientation de l’action. Les modèles qui réduisent
 l’incertitude sont privilégiés — même lorsqu’ils ne sont
 qu’approximativement corrects. La cognition est donc
 conservatrice : elle protège les cadres existants contre la
 déstabilisation.
+
 La mécroyance émerge lorsque ces modèles se figent en
 architectures interprétatives résistantes à la correction. Le faux
 ne persiste pas malgré la cohérence, mais à cause d’elle. Les
 architectures cohérentes absorbent les anomalies par
 réinterprétation, préservant leur consistance interne tout en
 s’éloignant de l’adéquation.
+
 D’où une distinction décisive : la rationalité n’est pas la
 lucidité. On peut raisonner avec rigueur à partir de prémisses
 fausses, agir intelligemment à l’intérieur d’architectures mal
 fondées, et demeurer sincèrement convaincu de comprendre.
 L’erreur n’est plus locale ; elle devient architecturale.
+
 Dans cette perspective, la vérité n’apparaît plus comme un
 fondement, mais comme une correction locale — fragile,
 provisoire, jamais définitive. La tâche de la pensée n’est pas
@@ -1291,6 +1338,7 @@ perdure n’est pas ce qui est le plus fidèle au réel, mais ce qui
 demeure utilisable à travers les situations. L’erreur, en ce sens,
 n’est pas une défaillance de la cognition, mais le coût de son
 efficacité.
+
 Cette efficacité comporte cependant un risque structurel.
 Lorsqu’un cadre produit de manière répétée des résultats
 intelligibles, il acquiert une autorité qui dépasse sa légitimité
@@ -1299,6 +1347,7 @@ fluidité avec la vérité. La simple aisance de la compréhension
 devient un argument en sa faveur. À ce stade, le cadre ne se
 contente plus de guider l’interprétation ; il gouverne ce qui
 peut être interprétable.
+
 La mécroyance désigne la stabilisation de cette condition. Elle
 nomme le moment où le succès de la compréhension dissimule
 sa contingence, et où l’absence de friction est vécue comme
@@ -1315,6 +1364,7 @@ succès d’un modèle et sa vérité. Les modèles qui fonctionnent
 tendent à être considérés comme des modèles justes. Cette
 inférence est intuitive, pragmatiquement efficace, et
 profondément trompeuse.
+
 Les systèmes cognitifs n’évaluent pas d’abord les modèles
 selon leur adéquation épistémique, mais selon leur
 performance fonctionnelle. Un modèle survit dans la mesure
@@ -1324,6 +1374,7 @@ correspondance au réel. Il en résulte que des modèles
 partiellement faux, simplifiés ou structurellement désalignés
 avec la réalité peuvent persister indéfiniment s’ils demeurent
 opératoires.
+
 Du point de vue de la mécroyance, il s’agit d’un mécanisme
 décisif. La mécompréhension structurelle ne surgit pas malgré
 le succès du modèle, mais à cause de lui. Lorsqu’un cadre
@@ -1346,9 +1397,11 @@ comme pertinent ou exceptionnel. Confrontés à des données
 disconfirmantes, ils ajustent leurs critères plutôt que de réviser
 leur structure. La cohérence est conservée par un déplacement
 de la signification.
+
 Ce processus n’a rien de pathologique. Il est rationnel du point
 de vue interne du cadre lui-même. La stabilité exige une
 certaine élasticité.
+
 Le problème surgit lorsque l’absorption devient systématique.
 Lorsque la réinterprétation remplace la révision, l’erreur cesse
 d’apparaître comme erreur. La critique échoue alors non parce
@@ -1366,12 +1419,14 @@ répondre intelligemment aux données, maintenir une
 cohérence interne — tout en opérant dans un cadre
 structurellement désaligné par rapport aux phénomènes qu’il
 prétend expliquer.
+
 Tel est le noyau cognitif que désigne la mécroyance. Le sujet
 ne résiste pas à la correction ; la correction ne paraît
 simplement pas nécessaire. La compréhension semble
 complète parce que le cadre fonctionne sans heurt. La
 confiance ne naît pas de l’arrogance, mais d’un équilibre
 cognitif.
+
 En ce sens, l’erreur n’est plus une déviation locale à corriger,
 mais une caractéristique architecturale de la compréhension
 elle-même. La vérité, lorsqu’elle surgit, apparaît comme une
@@ -1379,6 +1434,7 @@ perturbation locale plutôt que comme un fondement. Elle
 corrige sans dissoudre le cadre, et se trouve souvent
 réabsorbée avant de pouvoir provoquer une transformation
 structurelle.
+
 Ce qui se perd alors n’est pas la rationalité, mais la
 transparence. Le sujet raisonne correctement, sans pouvoir
 percevoir les limites de l’espace dans lequel ce raisonnement
@@ -1396,6 +1452,7 @@ elle-même engendre des zones durables de mécompréhension.
 Le défi n’est pas d’éliminer l’erreur, mais de demeurer attentif
 aux moments où la compréhension se stabilise trop vite,
 confondant succès fonctionnel et adéquation épistémique.
+
 Ce que les humains accomplissent lentement, l’intelligence
 artificielle contemporaine le réalise à grande échelle. Les
 systèmes d’apprentissage automatique optimisent la
@@ -1405,6 +1462,7 @@ cherchent la stabilité et l’ajustement. Tant que les résultats
 demeurent fiables, le désalignement au niveau du cadrage reste
 invisible. L’IA n’introduit donc pas une nouvelle forme
 d’erreur — elle accélère une forme ancienne.
+
 Le rationalisme présumait que la cohérence garantissait
 l’alignement avec le réel ; l’empirisme que l’expérience
 finirait par le corriger. La mécroyance révèle leur point
@@ -1424,12 +1482,14 @@ de sens socialement partagé et demeure compatible avec un
 fonctionnement adaptatif. Il n’y a ni rupture avec le réel, ni
 substitution hallucinatoire, ni monde privé dressé contre le
 monde commun.
+
 Psychologiquement, la mécroyance remplit des fonctions
 stabilisatrices. Elle réduit l’incertitude, soutient la cohérence
 identitaire et fournit une suffisance explicative dans des
 environnements complexes. Sa persistance reflète un équilibre,
 non un dysfonctionnement. La croyance ne vise pas d’abord la
 vérité, mais la viabilité psychique.
+
 Ce statut fonctionnel est empiriquement fondé. Les
 expériences classiques de psychologie sociale montrent à
 répétition des modifications de croyance en l’absence de toute
@@ -1441,6 +1501,7 @@ insuffisante, ils recalibraient leur interprétation. La croyance
 se déplaçait — non pour tromper le monde, mais pour
 préserver la cohérence interne. Le sujet n’inventait pas une
 nouvelle réalité ; il habitait différemment la même.
+
 Ce statut intermédiaire apparaît plus clairement encore dans
 les expériences de conformité de Solomon Asch. Les
 participants donnaient sciemment des réponses erronées à des
@@ -1451,6 +1512,7 @@ pleinement ce qu’il sait. Il adopte une croyance socialement
 habitable, même lorsqu’elle est empiriquement sous-optimale.
 La psychologie parle ici de conformité ; la mécroyance en
 éclaire la structure épistémique.
+
 Les expériences d’obéissance de Stanley Milgram révèlent
 une dimension supplémentaire. Les participants se
 conformaient à des injonctions autoritaires tout en exprimant
@@ -1461,6 +1523,7 @@ plein. Ce déplacement n’est ni déni ni délire, mais compromis
 fonctionnel autorisant l’obéissance sans adhésion totale. Là
 encore, la mécroyance opère comme une structure porteuse.
 Ces résultats comportent des implications cliniques directes.
+
 Traiter la mécroyance comme un délire revient à commettre
 une violence épistémique ; la traiter comme simple ignorance,
 c’est ignorer son rôle affectif et structurel. La tâche du
@@ -1469,12 +1532,15 @@ interpréter la nécessité. Le travail thérapeutique ne procède pas
 par confrontation brutale, mais par assouplissement progressif
 — en examinant la crainte que la croyance abrite et la
 cohérence qu’elle préserve.
+
 À un niveau plus large, la mécroyance suggère que les sociétés
 modernes reposent moins sur des vérités partagées que sur des
 interprétations stabilisatrices communes. La légitimité
 politique, les récits institutionnels et les identités collectives
 peuvent fonctionner comme des prothèses cognitives assurant
-la continuité au sein de la contradiction. La question critique
+la continuité au sein de la contradiction. 
+
+La question critique
 se déplace alors. Il ne s’agit plus seulement de demander :
 cette croyance est-elle vraie ? Mais plutôt : quelle
 désintégration suivrait sa disparition ?
@@ -1486,11 +1552,13 @@ intermédiaire n’affaiblit pas la psychologie ; cela l’affine. La
 croyance n’est plus jugée seulement à l’aune de sa valeur de
 vérité, mais selon sa capacité à soutenir une existence sans la
 déchirer.
+
 À la lumière de cela, la distinction entre pathologie et erreur
 doit elle-même être raffinée. Ce qui définit la mécroyance
 n’est pas un déficit de capacité rationnelle, mais une limitation
 dans l’accès réflexif aux cadres qui rendent la croyance
 vivable.
+
 La stabilité psychologique s’achète ainsi au prix d’une fragilité
 épistémique. La pensée ne s’effondre pas ; elle réussit trop
 localement, trop harmonieusement, pour rencontrer ses
@@ -1499,6 +1567,7 @@ perdure non parce que la cognition est déficiente, mais parce
 qu’elle est fonctionnellement complète. C’est ce succès même
 — plutôt qu’un manque — qui permet à l’erreur de se
 stabiliser sans jamais apparaître comme telle.
+
 Dès lors, le problème n’est plus seulement celui de la croyance
 individuelle, mais celui des cadres collectifs qui héritent,
 stabilisent et reproduisent cette condition.
@@ -1507,30 +1576,46 @@ Mécroyance et dissonance cognitive
 De la tension à l’enracinement des cadres interprétatifs
 
 La dissonance cognitive constitue l’un des points d’entrée les plus empiriquement fondés pour comprendre la mécroyance, mais seulement si elle est déplacée du registre de l’inconfort momentané vers celui de la fixation interprétative. La dissonance est communément décrite comme une tension psychologique transitoire produite par des cognitions incompatibles. Ce qui importe ici n’est pas la tension elle-même, mais la manière dont elle est résolue.
+
 Dans la formulation originale de Festinger, la dissonance motive le changement. Pourtant, la théorie demeure largement silencieuse quant au statut épistémique des croyances qui en résultent. Lorsque la dissonance est résolue non pas en révisant une croyance à la lumière d’une autre, mais en réorganisant la structure interprétative à l’intérieur de laquelle les croyances sont comprises, la cohérence est restaurée sans que l’alignement épistémique s’en trouve nécessairement amélioré.
+
 La mécroyance nomme précisément ce résultat : une condition dans laquelle la dissonance ne se manifeste plus comme un conflit parce que le sujet est désormais inséré dans un cadre stabilisé de compréhension. Les cadres alternatifs ne sont pas rejetés comme faux ; ils sont rendus inintelligibles, non pertinents ou incohérents depuis l’intérieur de la structure adoptée. Le sujet ne résiste pas consciemment à la correction ; la correction n’apparaît simplement plus comme une opération significative, parce que l’erreur ne peut plus être localisée.
+
 De ce point de vue, la dissonance cognitive n’est pas seulement une pression vers la révision des croyances. Elle constitue l’un des principaux mécanismes par lesquels les cadres interprétatifs s’enracinent. La résolution ne produit pas nécessairement de meilleures croyances ; elle produit des croyances qui fonctionnent — qui préservent la cohérence, l’identité et la capacité d’agir. Une fois qu’un tel cadre se stabilise, la dissonance n’est plus éprouvée, parce que les conditions mêmes de son apparition ont été reconfigurées.
 Cela explique pourquoi les sujets pris dans la mécroyance paraissent souvent imperméables aux contre-arguments ou aux preuves. La résistance n’est ni motivationnelle ni idéologique, mais structurelle. Les cadres concurrents ne sont pas évalués puis rejetés ; ils ne se présentent tout simplement pas comme des candidats possibles à la compréhension. Ce qui apparaît extérieurement comme de l’entêtement est vécu intérieurement comme de l’intelligibilité.
+
 En ce sens, la théorie de la dissonance cognitive explique comment les sujets se dirigent vers la cohérence ; la mécroyance explique comment ils y demeurent. La dissonance initie l’ajustement ; la mécroyance décrit l’état dans lequel cet ajustement a trop bien réussi — produisant un cadre stable qui ne permet plus la révision sans menacer les conditions mêmes de la production de sens.
+
 Vu sous cet angle, le problème n’est pas que les sujets cherchent à avoir raison, mais qu’ils cherchent à avoir moins tort uniquement dans les termes que leur cadre autorise. La mécroyance marque le moment où être « moins dans l’erreur » cesse de signifier se rapprocher de l’adéquation, et en vient à signifier préserver la cohérence en excluant d’autres manières possibles d’être autrement dans l’erreur.
+
 La dissonance cognitive est généralement décrite comme une tension transitoire résolue par l’ajustement des croyances. La mécroyance apparaît lorsque de telles résolutions se répètent et se stabilisent. Ce qui n’était au départ qu’un accommodement local devient un cadre interprétatif.
+
 À mesure que les engagements s’accumulent, la révision des croyances cesse d’être réversible. Corriger une croyance ne restaurerait plus l’exactitude, mais perturberait la cohérence narrative. À ce seuil, la dissonance n’apparaît plus comme un conflit. Les contre-preuves sont filtrées avant même de pouvoir se manifester sous forme de tension.
+
 La mécroyance nomme cet état : une cohérence préservée non par le déni, mais par une isolation structurelle. La rationalité demeure, mais la lucidité se retire. L’erreur n’apparaît plus comme corrigeable, parce qu’elle ne peut plus être localisée.
 Ce basculement final possède une signature distinctive : la disparition de la tension ressentie. La dissonance ne disparaît pas parce que les contradictions ont été résolues, mais parce que le cadre a appris à les prévenir.
+
 Ce qui apparaissait autrefois comme un problème à négocier est désormais rencontré comme du bruit, un malentendu ou une simple non-pertinence. À ce stade, la croyance n’est plus ajustée en réponse à une friction ; c’est la friction elle-même qui a été reclassée. La mécroyance marque ainsi le moment où la cohérence cesse d’être défendue et commence à fonctionner silencieusement comme la condition de fond de l’intelligibilité.
 
 Mécroyance et effet Dunning–Kruger
 
 L’effet Dunning–Kruger est généralement décrit comme un déficit métacognitif : les individus ayant une faible compétence tendent à surestimer leur compréhension, tandis que les individus hautement compétents manifestent une plus grande prudence épistémique. Bien que cet effet soit empiriquement robuste, il est souvent interprété à tort comme un simple phénomène d’ignorance ou d’arrogance intellectuelle.
+
 Du point de vue de la mécroyance, l’effet Dunning–Kruger révèle un mécanisme structurel plus profond. Ce qui est surestimé n’est pas la connaissance elle-même, mais l’adéquation du cadre à travers lequel la compréhension est évaluée.
 Les sujets ne manquent pas simplement d’informations ; ils manquent d’accès aux critères à partir desquels leur compréhension pourrait être évaluée comme insuffisante.
+
 La mécroyance clarifie cette distinction. Dans de nombreuses configurations de type Dunning–Kruger, les individus raisonnent de manière cohérente, appliquent correctement les règles disponibles et éprouvent leur compréhension comme complète. Leur erreur n’est pas locale mais architecturale : le cadre qui produit la confiance est lui-même mal conçu.
 L’excès de confiance n’émerge pas de la tromperie, mais de l’absence de marqueurs internes d’insuffisance.
+
 Cela explique pourquoi les retours correctifs échouent souvent. Lorsque la rétroaction contredit les résultats sans modifier le cadre évaluatif sous-jacent, elle est soit rejetée, soit réinterprétée. Le sujet ne résiste pas à la correction par mauvaise foi ; la correction devient simplement inintelligible à l’intérieur de l’architecture existante de compréhension.
+
 En ce sens, l’effet Dunning–Kruger peut être compris comme une manifestation métacognitive de la mécroyance. Là où la dissonance demeure non résolue, l’erreur est ressentie comme une tension ; là où la mécroyance se stabilise, l’erreur est vécue comme une clarté.
+
 La confiance persiste parce que le système de croyances parvient à se protéger de l’auto-critique.
 Fait important, la mécroyance explique également l’autre versant de la courbe de Dunning–Kruger. Les sujets plus compétents manifestent une humilité épistémique non pas parce qu’ils possèdent un scepticisme supérieur, mais parce que leurs cadres incluent une conscience interne des limites, de l’incertitude et des marges d’erreur. Ce qui apparaît comme de la modestie est en réalité un accès structurel à la critique.
+
 La relation est donc asymétrique. L’effet Dunning–Kruger décrit un modèle de distribution de la confiance selon les niveaux de compétence ; la mécroyance explique la condition épistémique qui permet à cette confiance de se stabiliser sans tromperie ni délire.
+
 Reconnaître ce lien permet de reformuler l’excès de confiance : non comme de la stupidité ou un vice, mais comme l’issue prévisible d’une incompréhension cohérente. La prudence intellectuelle ne consiste donc pas seulement à accumuler du savoir, mais à cultiver des cadres capables de représenter leurs propres limites.
 
 Note conclusive — Stabilité psychologique et
@@ -1544,6 +1629,7 @@ cognitif sous contrainte. Les croyances décrites ici persistent
 non parce qu’elles seraient irrationnelles ou pathologiques,
 mais parce qu’elles remplissent des fonctions stabilisatrices
 essentielles.
+
 La mécroyance désigne le point où la cohérence l’emporte sur
 l’adéquation, et l’équilibre psychologique sur l’alignement
 épistémique. La dissonance cognitive éclaire les dynamiques
@@ -1552,12 +1638,14 @@ l’obéissance révèlent les pressions sociales qui façonnent la
 croyance ; l’effet Dunning–Kruger met en lumière les limites
 métacognitives de l’autoévaluation. Dans chaque cas, l’erreur
 n’est pas vécue comme erreur, mais comme compréhension.
+
 Les implications pour la théorie et la pratique psychologiques
 sont décisives. Lorsque les croyances fonctionnent trop bien,
 la critique devient inintelligible. La tâche de la psychologie
 n’est donc pas d’éradiquer la mécompréhension, mais de la
 rendre visible et négociable — sans provoquer
 d’effondrement.
+
 En situant l’erreur au cœur des opérations ordinaires de la
 cognition plutôt qu’à ses marges, ce chapitre reconfigure la
 croyance comme un compromis fragile entre sens, identité et
@@ -1572,6 +1660,7 @@ La mécroyance ne nie pas la vérité, ne cautionne pas le
 relativisme et n’accuse pas les sujets d’irrationalité. Elle
 n’explique pas tout, et ne promet pas une sortie définitive hors
 de l’erreur.
+
 Ce qu’elle affirme est limité et précis : qu’une
 mécompréhension sincère et cohérente, interne à la croyance
 elle-même, constitue une condition cognitive distincte —
@@ -1582,10 +1671,12 @@ ne l’excuse pas et ne la place pas au-delà de la critique. Le
 concept ne confère aucune légitimité aux cadres qu’il décrit,
 pas plus qu’il ne les protège de la réfutation ou de la
 responsabilité.
+
 Sa finalité est analytique, non polémique. Il suspend le
 jugement moral afin de diagnostiquer une structure — et de
 rouvrir l’enquête là où le jugement avait remplacé la
 compréhension.
+
 Ce que ce concept permet en définitive, c’est un changement
 d’échelle. Une fois la mécroyance identifiée au niveau de la
 cognition individuelle, son extension aux systèmes collectifs
@@ -1595,17 +1686,22 @@ stabilisatrices commencent à structurer les normes, les récits et
 la légitimité, la mécroyance ne demeure plus seulement
 psychologique. Elle devient idéologique.
 
+
 Chapitre IV — L’idéologie comme mécroyance stabilisée
 
 Lorsque la cohérence se stabilise plus rapidement que la compréhension, l’erreur cesse d’être accidentelle et devient systémique — sans fausseté, sans intention, sans conscience.
+
 L’idéologie est souvent décrite comme une distorsion imposée d’en haut : manipulation par les élites, fausse conscience fabriquée par le pouvoir, ou tromperie stratégique entretenue par la propagande.
 Bien que ces mécanismes existent, ils demeurent insuffisants pour expliquer la durabilité des idéologies. Les systèmes maintenus uniquement par la coercition ou par le mensonge tendent à s’effondrer dès que la pression faiblit. Les idéologies, au contraire, persistent à travers les générations, s’adaptent à la critique et survivent aux contradictions internes.
+
 Leur résilience provient d’une autre source : elles fonctionnent comme des cadres cohérents de compréhension.
 Du point de vue de la mécroyance, l’idéologie apparaît non pas principalement comme une fausseté imposée, mais comme une incompréhension structurelle stabilisée socialement. Elle fournit une suffisance explicative, réduit l’incertitude interprétative et coordonne les attentes à l’échelle de vastes populations. Fait crucial, elle y parvient sans nécessiter une application constante de la contrainte. Les individus habitent l’idéologie non parce qu’ils sont trompés, mais parce que ce cadre rend le monde intelligible, praticable et moralement lisible.
+
 L’idéologie, en ce sens, n’est pas un mensonge auquel les gens croient.
 C’est un monde dans lequel ils peuvent vivre.
 Cohérence idéologique et neutralisation de
 l’anomalie
+
 Un trait distinctif de la mécroyance idéologique réside dans sa
 capacité à absorber la contradiction sans se déstabiliser. Les
 anomalies ne sont pas niées ; elles sont recadrées. Les
@@ -1613,6 +1709,7 @@ incohérences ne sont pas résolues ; elles sont reclassées. Les
 événements susceptibles de menacer le cadre sont interprétés
 comme des exceptions, des interférences extérieures, des
 défaillances morales ou des déviations temporaires.
+
 Ce mécanisme éclaire pourquoi les systèmes idéologiques
 tolèrent souvent mieux la contradiction interne que la critique
 externe. Ce qui paraît incohérent de l’extérieur peut demeurer
@@ -1620,6 +1717,7 @@ parfaitement intelligible de l’intérieur, car la cohérence opère
 au niveau du cadre et non du contenu. Le système n’exige pas
 une adéquation empirique à chaque point ; il exige une
 continuité structurelle.
+
 Le conflit ne naît donc pas principalement de l’irrationalité ou
 de l’ignorance. Il surgit de la collision entre des cadres dont la
 cohérence interne n’est pas transférable. Chaque camp
@@ -1641,6 +1739,7 @@ plupart des croyants n’adhèrent pas à la doctrine par
 littéralisme ou obéissance aveugle. Ils habitent des cadres
 interprétatifs qui stabilisent sélectivement le sens tout en
 laissant certaines tensions irrésolues.
+
 Le dogme fonctionne moins comme un ensemble de
 propositions à vérifier que comme une architecture
 symbolique organisant l’orientation morale, l’identité et
@@ -1649,6 +1748,7 @@ et souffrance, libre arbitre et prédestination, transcendance et
 immanence — sont rarement vécues comme des défaillances
 logiques. Elles sont habitées comme mystères, paradoxes ou
 limites de l’entendement humain.
+
 Du point de vue de la mécroyance, il ne s’agit pas
 d’irrationalité. Il s’agit d’une adaptation au niveau du cadre.
 Le système de croyance demeure cohérent parce que la
@@ -1671,20 +1771,24 @@ dogmatique. Les doctrines politiques, les modèles
 comme purement rationnels ou fondés sur des preuves, alors
 qu’ils opèrent à partir de premiers principes rarement
 interrogés.
+
 Des notions telles que le progrès, le mérite, la croissance, la
 sécurité ou la souveraineté fonctionnent fréquemment comme
 des axiomes plutôt que comme des hypothèses. Elles
 organisent l’interprétation, justifient l’action et délimitent le
 champ de la critique.
+
 Lorsque les résultats contredisent les attentes, le cadre est
 rarement remis en question ; la responsabilité est déplacée —
 vers les individus, des ennemis extérieurs, une mise en œuvre
 insuffisante ou un simple retard historique.
+
 Là encore, la mécroyance éclaire le mécanisme. L’idéologie
 ne persiste pas parce qu’elle serait vraie en tous points, mais
 parce qu’elle demeure intérieurement praticable. Elle fournit
 des raisons, des rôles et des responsabilités qui rendent
 l’action possible, même lorsque les résultats déçoivent.
+
 Sous cet angle, l’idéologie n’apparaît plus d’abord comme un
 ensemble de croyances à affirmer ou à rejeter, mais comme
 une infrastructure cognitive qui organise la perception,
@@ -1699,6 +1803,7 @@ de croyance que comme une infrastructure cognitive. Elle
 standardise la pertinence, détermine ce qui compte comme
 problème et fixe les questions qui peuvent être posées sans
 mettre en péril le système lui-même.
+
 Ce rôle infrastructural explique pourquoi la critique
 idéologique suscite si souvent des réactions défensives
 disproportionnées par rapport à son contenu. Ce qui est
@@ -1709,12 +1814,14 @@ dupes ou des coupables, tout en refusant de naturaliser le cadre
 comme inévitable. L’idéologie n’est ni pure tromperie ni
 simple erreur ; elle est une mécompréhension stabilisée
 remplissant des fonctions sociales essentielles.
+
 Ainsi comprise, l’idéologie opère en amont de la croyance
 elle-même. Elle configure le champ au sein duquel la croyance
 devient possible, plausible et praticable. Bien avant qu’une
 proposition soit affirmée ou niée, l’infrastructure a déjà
 organisé la saillance, filtré les alternatives et distribué le poids
 interprétatif.
+
 Ce qui se présente comme conviction est souvent l’effet
 secondaire d’un monde déjà structuré quant à ce qui peut
 compter comme preuve, pertinence ou doute. La mécroyance
@@ -1731,20 +1838,24 @@ partagée. Sans elle, aucune organisation sociale à grande
 échelle ne serait viable. Pourtant, cette même stabilisation rend
 les cadres résistants à la révision précisément au moment où
 celle-ci devient nécessaire.
+
 Le problème éthique n’est donc pas l’idéologie en tant que
 telle, mais la rigidité épistémique — le point où la cohérence
 est défendue au détriment de l’intelligibilité. Lorsque la
 critique n’est plus interprétable à l’intérieur du cadre,
 l’idéologie cesse de stabiliser une mécompréhension pour
 devenir une cécité systémique.
+
 La mécroyance n’appelle pas à l’abolition de l’idéologie.
 Elle appelle à la vigilance quant aux conditions sous lesquelles
 l’idéologie cesse d’être révisable.
+
 Ce qui confère à la mécroyance idéologique son ambiguïté
 éthique n’est pas l’excès, mais le succès. Un cadre qui
 coordonne l’action, distribue les responsabilités et rend le
 monde social intelligible résistera naturellement à tout ce qui
 menace sa cohérence.
+
 Le danger apparaît lorsque cette résistance se durcit en norme.
 À ce stade, la protection du sens l’emporte sur la réactivité au
 réel, et la stabilité est préservée non par l’adaptation, mais par
@@ -1761,6 +1872,7 @@ Ce cadrage moralisé en obscurcit la signification structurelle
 plus profonde. Du point de vue de la mécroyance, l’hérésie
 n’est pas d’abord une erreur de contenu, mais un conflit entre
 cadres.
+
 Au sein d’un système idéologique ou religieux stabilisé, la
 cohérence ne dépend pas de la vérité littérale de chaque
 proposition, mais de l’intégrité de l’architecture symbolique
@@ -1769,6 +1881,7 @@ liste de croyances que comme une grammaire de
 l’intelligibilité. Il définit ce qui peut faire question, ce qui
 constitue une réponse, et jusqu’où l’incertitude peut être
 tolérée sans menacer l’ensemble.
+
 L’hérésie devient intolérable non parce qu’elle serait fausse,
 mais parce qu’elle perturbe cette architecture. L’hérétique ne
 se contente pas d’affirmer une proposition différente ; il
@@ -1778,6 +1891,7 @@ périphérique devient central ; ce qui était métaphorique
 devient littéral ; ce qui demeurait indécis devient décisif. Le
 danger ne réside pas dans la contradiction, mais dans la
 reconfiguration.
+
 Ainsi comprise, l’hérésie est structurellement plus proche d’un
 changement de paradigme que d’une simple erreur. Elle
 introduit une incompatibilité au niveau du cadre plutôt qu’un
@@ -1787,12 +1901,14 @@ Cela explique pourquoi les hérésies suscitent souvent des
 réactions disproportionnées. Elles menacent la cohérence, non
 la correction. Elles rendent le système symbolique instable en
 exposant sa contingence.
+
 Il importe de noter que ce conflit ne requiert pas une rébellion
 consciente. De nombreuses hérésies historiques sont nées de
 tentatives sincères de résoudre des tensions internes au
 système lui-même. L’hérétique se perçoit souvent comme plus
 fidèle, non moins. Ce qui le distingue n’est pas son intention,
 mais un déplacement architectural.
+
 La mécroyance éclaire cette dynamique en suspendant le
 jugement moral. Le cadre orthodoxe comme le cadre hérétique
 peuvent chacun posséder leur cohérence interne. Le conflit
@@ -1804,6 +1920,7 @@ En ce sens, l’hérésie n’est pas l’opposé de la croyance, mais
 l’une de ses limites structurelles. Elle marque le point où une
 architecture stabilisée ne peut plus absorber la réinterprétation
 sans se perdre elle-même.
+
 L’hérésie révèle ainsi la fragilité de tout cadre qui confond sa
 propre cohérence avec la nécessité, prenant une contingence
 structurelle pour une vérité morale ou métaphysique.
@@ -1817,6 +1934,7 @@ Pourtant, nombre d’entre elles reposent sur des axiomes non
 interrogés qui fonctionnent structurellement comme des
 dogmes — non proclamés comme articles de foi, mais intégrés
 comme points de départ évidents.
+
 Des notions telles que le progrès, le mérite, la sécurité ou la
 croissance apparaissent rarement comme des hypothèses. Elles
 sont traitées comme des biens axiomatiques, organisant
@@ -1824,6 +1942,7 @@ l’interprétation sans être elles-mêmes soumises à examen. Les
 politiques, les institutions et les jugements moraux sont
 évalués selon leur alignement sur ces valeurs, tandis que ces
 valeurs demeurent protégées de la critique.
+
 Prenons l’exemple du progrès. Il opère comme un axiome
 temporel : l’histoire est supposée avancer, l’amélioration est
 attendue, et la régression est interprétée comme anomalie ou
@@ -1834,6 +1953,7 @@ pas. Il se redéfinit. Les revers deviennent des coûts
 transitoires, les résistances des peurs irrationnelles, et les
 dommages des problèmes de gestion plutôt que des objections
 à l’axiome lui-même.
+
 Le mérite fonctionne de manière analogue. Il présuppose une
 corrélation entre résultats et effort ou capacité, conférant une
 lisibilité morale à l’inégalité. Lorsque les données empiriques
@@ -1849,6 +1969,7 @@ religieux, leur fonction n’est pas d’expliquer exhaustivement
 le monde, mais de stabiliser l’attente et de justifier l’action. Ils
 rendent des systèmes sociaux complexes praticables en
 réduisant l’ambiguïté.
+
 Du point de vue de la mécroyance, les idéologies séculières ne
 persistent pas malgré la contradiction, mais à travers elle. Leur
 cohérence dépend de leur capacité à réinterpréter les résultats
@@ -1876,6 +1997,7 @@ anticipée et classée à l’avance. Les arguments dissidents sont
 recadrés comme ignorance, mauvaise foi, extrémisme,
 nostalgie ou menace. Le contenu de la critique devient
 secondaire par rapport à sa catégorisation.
+
 Dès lors, la critique rencontre rarement le cadre selon ses
 propres termes. Elle est traduite dans un récit interne familier
 qui neutralise son potentiel perturbateur. Le système n’a pas
@@ -1885,6 +2007,7 @@ participants ne divergent pas seulement sur des conclusions ;
 ils habitent des architectures de pertinence incompatibles.
 Chacun éprouve l’autre comme « manquant le point », parce
 que le point lui-même dépend du cadre.
+
 L’immunité idéologique est renforcée par l’inscription
 institutionnelle. Lorsque les cadres sont encodés dans le droit,
 l’éducation, la technologie ou les procédures administratives,
@@ -1896,6 +2019,7 @@ stabilisée à une cécité systémique. La cohérence est défendue
 non parce qu’elle serait adéquate, mais parce que les
 alternatives ne sont plus représentables. Le cadre n’interdit pas
 la critique ; il la rend inintelligible.
+
 C’est ici que se situe le seuil éthique. L’idéologie devient
 problématique non lorsqu’elle simplifie le réel — cela est
 inévitable — mais lorsqu’elle ferme la possibilité de
@@ -1903,6 +2027,7 @@ reconnaître ses propres limites. Lorsque l’anomalie ne peut
 plus susciter le doute, et que la critique ne peut plus être
 interprétée autrement que comme pathologie ou hostilité, la
 compréhension s’est durcie en clôture.
+
 Le pouvoir ne réside plus alors dans le silence imposé à
 l’opposition, mais dans la conservation de l’initiative
 interprétative. Le système immunitaire de l’idéologie
@@ -1922,10 +2047,12 @@ stabilisation. Tout cadre cohérent dissimule ses propres
 prémisses. Tout monde intelligible exclut des alternatives. La
 tâche éthique n’est donc pas une démystification naïve, mais
 une vigilance.
+
 Vigilance lorsque la cohérence se mue en immunité.
 Vigilance lorsque les axiomes cessent d’être révisables.
 Vigilance lorsque la critique est disqualifiée avant même
 d’être entendue.
+
 L’idéologie est inévitable. La cécité ne l’est pas. La
 mécroyance désigne le point où la croyance cesse de se savoir
 croyance, et où la cohérence remplace silencieusement
@@ -1933,6 +2060,7 @@ l’adéquation comme mesure de la vérité. Reconnaître ce point
 ne signifie pas sortir de l’idéologie, mais la maintenir poreuse
 — permettre aux cadres de demeurer habitables sans devenir
 absolus.
+
 Vue à travers la mécroyance, l’idéologie n’est ni illusion ni
 imposture. Elle est un mode stabilisé de compréhension qui
 rend le monde vivable, navigable et moralement ordonné. Sa
@@ -1947,17 +2075,20 @@ mécompréhension cesse d’être corrigible. L’idéologie bascule
 alors de l’orientation à l’enfermement. L’erreur n’apparaît plus
 comme erreur, parce que l’intelligibilité elle-même est
 devenue critère de vérité.
+
 La mécroyance permet de nommer ce seuil. Elle n’abolit pas
 l’idéologie et ne promet aucune libération hors d’elle. Elle
 indique le point où la compréhension doit retrouver sa capacité
 d’hésitation. Non pour quitter le cadre, mais pour se souvenir
 qu’il en est un.
+
 Cette hésitation n’est pas seulement épistémique ; elle est déjà
 éthique. Lorsque la cohérence cesse d’être interrogée, la
 responsabilité n’est pas supprimée, elle est déplacée. La
 certitude fonctionne alors moins comme compréhension que
 comme exemption, autorisant l’action sans examen
 supplémentaire.
+
 La mécroyance déplace ainsi le problème de la responsabilité.
 Si la mécompréhension peut être cohérente et sincère, la
 responsabilité ne peut reposer uniquement sur l’intention ou la
@@ -2033,6 +2164,7 @@ inflation de formulations prudentes peut ainsi être désigné
 avec précision par un seul terme. La multiplication des
 périphrases n’est pas un signe de finesse conceptuelle ; elle est
 le symptôme d’une absence conceptuelle.
+
 Il est essentiel de souligner que la mécroyance ne fonctionne
 ni comme excuse ni comme accusation. Ce n’est pas un
 jugement moral, mais un diagnostic épistémique. Elle
@@ -2046,6 +2178,7 @@ des distinctions binaires — intention versus accident,
 connaissance versus ignorance — qui peinent à saisir les
 actions produites au sein de cadres structurellement mal
 conçus.
+
 La mécroyance permet ainsi de repenser la responsabilité sans
 sombrer dans le moralisme ni le relativisme. Des agents
 peuvent agir correctement à l’intérieur de systèmes
@@ -2079,6 +2212,7 @@ lesquels le concept de mécroyance aurait été analytiquement
 opérant est le procès d’Adolf Eichmann. Les débats
 confrontèrent la cour à une forme de responsabilité qui
 résistait aux binarités juridiques classiques.
+
 Eichmann ne niait pas les faits. Il ne revendiquait ni ignorance
 des conséquences de ses actes, ni pathologie mentale. Sa
 défense reposait sur l’obéissance stricte à un cadre légal-
@@ -2092,6 +2226,7 @@ possédait la connaissance factuelle, mais l’inscrivait dans un
 système interprétatif structurellement distordu, où la légalité se
 confondait avec la légitimité et l’obéissance hiérarchique avec
 l’exemption morale.
+
 La mécroyance permet de nommer cette configuration sans
 dissoudre la responsabilité. Les actes d’Eichmann peuvent être
 compris comme cohérents au sein d’un cadre mal conçu, tout
@@ -2112,12 +2247,14 @@ normativité. Règles, procédures et chaînes de commandement
 rendaient l’évaluation morale superflue — et, en définitive,
 inintelligible. Ce qui apparaît rétrospectivement comme cécité
 morale fonctionnait alors comme adéquation professionnelle.
+
 Cela n’implique pas l’absence d’agentivité. La mécroyance
 explique comment l’agentivité peut s’exercer pleinement à
 l’intérieur d’architectures de sens distordues. Eichmann
 exerçait jugement et initiative, mais toujours dans un horizon
 où les questions de légitimité étaient structurellement
 neutralisées.
+
 Le cas illustre ainsi un problème juridique plus large,
 dépassant l’atrocité historique. Dans les systèmes
 bureaucratiques et technologiques modernes, la responsabilité
@@ -2141,11 +2278,13 @@ recevaient l’instruction d’administrer des décharges
 électriques de plus en plus intenses à une autre personne.
 Malgré la détresse visible et leurs hésitations morales, une
 majorité poursuivait l’exécution des ordres.
+
 L’interprétation standard insiste sur la soumission, le
 conformisme ou la faiblesse morale. Pourtant, cette lecture
 demeure incomplète. Ce que révèle l’expérience n’est pas une
 obéissance aveugle, mais un raisonnement cohérent opérant au
 sein d’un cadre mal interprété.
+
 Les participants n’étaient pas sadiques. Ils n’ignoraient pas la
 souffrance infligée. Ils n’étaient pas irrationnels. Au contraire,
 la plupart raisonnaient avec soin, exprimaient des doutes et
@@ -2154,6 +2293,7 @@ d’eux-mêmes. Leur erreur ne résidait ni dans leurs intentions
 ni dans leur raisonnement local, mais dans leur compréhension
 de la structure même de la situation. C’est précisément ici que
 le concept de mécroyance devient indispensable.
+
 La mécroyance désigne une condition dans laquelle un
 individu adhère sincèrement à un cadre de croyance cohérent
 en interne mais structurellement désaligné avec la réalité. Le
@@ -2170,11 +2310,13 @@ Cependant, leur compréhension de la responsabilité était
 déplacée. L’autorité était interprétée comme une couverture
 épistémique et morale. La responsabilité était supposée résider
 ailleurs.
+
 Leur raisonnement suivait une logique interne cohérente :
 • l’expérience est légitime,
 • l’autorité est compétente,
 • la responsabilité incombe à l’autorité,
 • donc l’obéissance est rationnelle.
+
 Ce raisonnement n’est pas faux dans sa forme.
 Il est faux dans la configuration de ses prémisses.
 Il en résulte une situation où des individus agissent de manière
@@ -2183,6 +2325,7 @@ produisant des effets objectivement nuisibles. L’erreur ne naît
 ni de l’ignorance ni de la malveillance, mais d’un
 désalignement entre les connaissances disponibles, la
 compréhension effective et la certitude subjective.
+
 L’expérience de Milgram ne démontre donc pas
 l’effondrement de la morale sous l’autorité. Elle révèle le
 fonctionnement normal de la cognition humaine sous
@@ -2195,6 +2338,7 @@ d’une mauvaise articulation — d’une incapacité à saisir
 comment les éléments se rapportent au tout. Lorsque la doxa
 se fige et que le logos se retire, le raisonnement ne cesse pas ;
 il opère simplement à l’intérieur d’un cadre non interrogé.
+
 Ainsi comprise, l’expérience de Milgram n’est pas une
 anomalie de la psychologie du XXe siècle. Elle constitue une
 illustration paradigmatique de la mécroyance comme
@@ -2204,6 +2348,7 @@ et que l’autorité se fait plus abstraite, la probabilité de
 mécroyance augmente — non parce que les individus
 deviennent moins rationnels, mais parce que la compréhension
 accuse un retard sur la complexité structurelle.
+
 La leçon éthique n’est donc pas seulement « résister à
 l’autorité ». Elle est plus exigeante : interroger le cadre dans
 lequel l’obéissance paraît raisonnable. Sans cette interrogation,
@@ -2221,6 +2366,7 @@ conçu. Pendant quarante ans, des professionnels de santé ont
 observé l’évolution non traitée de la syphilis chez des hommes
 afro-américains, en leur refusant un traitement efficace, y
 compris après la mise à disposition de la pénicilline.
+
 Les médecins et administrateurs impliqués ne niaient pas les
 faits et n’opéraient pas sous l’emprise de croyances délirantes.
 Ils agissaient à l’intérieur d’un cadre professionnel considéré
@@ -2228,6 +2374,7 @@ comme scientifiquement légitime. Le préjudice ne résultait pas
 d’une intention malveillante, mais de l’adhésion à une
 structure de croyance protégée contre toute réévaluation
 critique.
+
 La mécroyance offre un vocabulaire analytique pour décrire
 cette situation. Le savoir était présent, mais reconfiguré
 éthiquement de manière à neutraliser la responsabilité au
@@ -2235,6 +2382,7 @@ moment de l’action. La responsabilité ne peut être réduite à
 l’intention individuelle ; elle émerge de la participation à un
 cadre qui obstruait la critique tout en préservant une rationalité
 interne.
+
 Le contentieux a mis au jour une défaillance qui ne pouvait
 être localisée ni dans une intention personnelle précise ni dans
 une simple violation procédurale. Le dommage a perduré
@@ -2253,6 +2401,7 @@ individu jugé pour un crime ; il met en scène un appareil
 judiciaire qui produit sa propre cohérence et confond la
 consistance narrative avec la vérité, et la conformité morale
 avec la responsabilité.
+
 Meursault ne nie pas l’acte. Il n’invente pas de motifs, ne
 réinterprète pas les faits et ne cherche pas à se justifier. Il ne
 ment pas, ne dissimule pas. Ce qui le place en conflit avec la
@@ -2260,17 +2409,20 @@ cour n’est ni la tromperie, ni l’ignorance, ni l’irrationalité,
 mais son refus — ou son incapacité — d’adopter le cadre
 interprétatif par lequel l’institution judiciaire attribue sens,
 intention et pertinence morale.
+
 Le tribunal, à l’inverse, fonctionne avec une rigueur interne
 exemplaire. Il assemble faits, gestes, silences et détails
 secondaires en un récit cohérent. Pourtant, cette cohérence ne
 dérive pas de l’acte lui-même. Elle émerge d’une grammaire
 morale héritée qui confond conformité émotionnelle et
 culpabilité.
+
 Meursault est condamné moins pour avoir tué un homme que
 pour n’avoir pas manifesté les signes attendus de remords —
 notamment son refus de pleurer à l’enterrement de sa mère —
 et pour avoir résisté aux rituels symboliques par lesquels la
 culpabilité devient socialement lisible.
+
 Dans cette configuration, la responsabilité n’est plus évaluée
 en fonction de l’acte seul, mais selon l’alignement de l’accusé
 avec un cadre normatif d’intelligibilité. Le tribunal suit la
@@ -2279,6 +2431,7 @@ contradiction. Néanmoins, il opère dans un cadre
 structurellement mal conçu — où l’opacité existentielle est
 réinterprétée comme faute morale, et la différence de sens
 comme déviance.
+
 Il s’agit d’un cas paradigmatique de mécroyance
 institutionnelle. La machine judiciaire ne se trompe ni par
 manque d’information, ni par mauvaise foi. Elle se trompe
@@ -2288,6 +2441,7 @@ construit est juridiquement admissible, socialement intelligible
 et cohérent en lui-même. Son échec est épistémique plutôt que
 procédural : elle confond cohérence et adéquation, clôture
 interprétative et vérité.
+
 Contrairement aux cas d’Eichmann ou de Tuskegee, où des
 agents agissent dans des cadres mal conçus hérités de systèmes
 idéologiques plus larges, le procès chez Camus révèle une
@@ -2298,6 +2452,7 @@ activement par le rituel, le langage et le jugement. La
 résistance de Meursault à ce cadre — son littéralisme, son
 silence, son refus de feindre — le rend inintelligible et, dès
 lors, condamnable.
+
 La responsabilité se trouve ainsi déplacée. Meursault est tenu
 pour responsable non de ce qu’il a intentionnellement voulu,
 mais de ce qu’il n’a pas signifié. Le droit ne juge plus
@@ -2312,6 +2467,7 @@ l’intérieur d’une structure de croyance qui assimile normalité
 morale et légitimité juridique. Leur erreur est structurelle :
 croire que la justice exige une cohérence narrative, même
 lorsque cette cohérence méconnaît l’acte lui-même.
+
 Camus anticipe ainsi un risque central du raisonnement
 juridique : lorsqu’il se coupe de l’autocritique épistémique, il
 engendre ses propres angles morts et les traite comme des
@@ -2325,6 +2481,7 @@ l’intolérance de l’appareil judiciaire à l’opacité. Face à un acte
 qui résiste à la narration morale, la cour compense en
 intensifiant l’interprétation. Le silence devient signification, la
 neutralité provocation, et l’indifférence culpabilité.
+
 Dans cette perspective, la condamnation de Meursault n’est
 pas une anomalie, mais un effet structurel de la mécroyance
 juridique. La responsabilité est évaluée moins en fonction de
@@ -2335,6 +2492,7 @@ lisibilité deviennent judiciairement suspects. Camus offre ainsi
 un avertissement littéraire toujours actuel : une responsabilité
 évaluée sans tromperie peut néanmoins être évaluée à
 l’intérieur d’un cadre mal conçu.
+
 
 L’intime conviction : vertu judiciaire ou
 mécroyance institutionnelle ?
@@ -2362,6 +2520,7 @@ Une histoire qui tient.
 Une version du monde qui ne grince plus.
 L’intime conviction est moins une intuition qu’un sentiment
 de suffisance explicative.
+
 Le moment où les éléments s’ajustent assez pour que le doute
 cesse d’insister.
 Quand le réel consent à être réduit à un récit praticable.
@@ -2370,6 +2529,7 @@ Car le juge ne se dit pas : je crois.
 Il se dit : je comprends.
 Et cette compréhension, précisément parce qu’elle est
 cohérente, est vécue comme légitime.
+
 Ce qui importe n’est pas la sincérité du juge, mais la fonction
 assignée à cette sincérité dans l’économie judiciaire de la
 vérité. L’intime conviction est digne de confiance moins parce
@@ -2382,6 +2542,7 @@ interroger le cadre au sein duquel la cohérence émerge,
 seulement à décider si, dans ce cadre, les faits font désormais
 sens. La conviction survient comme stabilisation, non comme
 découverte.
+
 La mécroyance nomme précisément cet instant — lorsque la
 compréhension paraît suffisante parce que la résistance a
 cessé, et non parce que l’alignement avec le réel a été assuré.
@@ -2395,6 +2556,7 @@ Le jury ne revendique pas l’intime conviction.
 Il invoque le doute raisonnable.
 Non l’absence de doute, mais un doute devenu socialement
 intenable.
+
 Un doute qui ne parvient plus à justifier sa propre persistance.
 Ici, la croyance n’est jamais purement intérieure.
 Elle est distribuée. Fragmentée. Exposée à la friction
@@ -2455,6 +2617,7 @@ toujours à l’intérieur de cadres interprétatifs. Ceux-ci doivent
 rester ouverts à la critique — non pour paralyser le jugement,
 mais pour empêcher que la cohérence ne se substitue à
 l’adéquation.
+
 La justice doit rester décisive.
 Mais elle doit demeurer vigilante.
 Car la justice ne tranche pas la vérité à l’état brut ; elle tranche
@@ -2467,6 +2630,7 @@ routinières et une conformité professionnelle. Le dommage
 naît souvent non d’une transgression, mais d’une adhésion
 sincère à des cadres perçus comme légitimes, complets et
 suffisants.
+
 Des agents peuvent agir en pleine conformité avec les règles et
 contribuer pourtant à des effets préjudiciables. La légalité
 devient alors un bouclier invoqué contre la responsabilité.
@@ -2483,23 +2647,27 @@ l’arbitraire, peuvent aussi produire une cécité normative. Ce
 sont des artefacts historiques, non des garanties d’adéquation.
 Lorsqu’ils sont traités comme épistémiquement suffisants, ils
 deviennent des vecteurs de mécroyance.
+
 Dans les dispositifs décisionnels automatisés ou délégués, la
 responsabilité semble suspendue à mesure que l’agentivité se
 dissout dans le système. Pourtant, la responsabilité demeure
 humaine. La mécroyance désigne ici la croyance selon laquelle
 la cohérence technique remplacerait l’évaluation morale.
 La mécroyance n’accuse pas.
+
 Elle alerte.
 Car ce n’est pas le doute qui menace la justice.
 C’est la tranquillité.
 
 Chapitre VI — Intelligence artificielle et
 automatisation de la mécroyance
+
 L’intelligence artificielle ne comprend pas ; elle produit de la
 cohérence. Ses sorties sont optimisées pour la plausibilité, non
 pour l’adéquation. Elle reproduit ainsi un trait fondamental de
 la cognition humaine — mais en l’externalisant à grande
 échelle.
+
 Comme l’entendement humain, l’IA opère à travers des
 modèles qui privilégient la consistance interne, la sélection de
 pertinence et l’orientation vers l’action. Ce qui la distingue
@@ -2507,6 +2675,7 @@ n’est pas la nature de ce fonctionnement, mais sa vitesse, son
 opacité et son extension. La cohérence est générée plus
 rapidement qu’elle ne peut être interrogée, et répétée assez
 souvent pour acquérir l’apparence de la vérité.
+
 Les systèmes d’IA héritent de cadres stabilisés inscrits dans les
 données, le langage et les usages institutionnels. Ces cadres ne
 sont pas neutres. Ils encodent des présupposés relatifs à la
@@ -2514,6 +2683,7 @@ pertinence, à la normalité, à la causalité et à la légitimité.
 Lorsque ces présupposés demeurent implicites, la cohérence
 est confondue avec la compréhension et la fluidité avec la
 fiabilité épistémique.
+
 Dans ce contexte, la mécroyance devient infrastructurelle. Elle
 n’est plus seulement une condition cognitive humaine, mais un
 écosystème de représentations qui se renforcent mutuellement.
@@ -2525,12 +2695,14 @@ conçues.
 
 Le danger principal n’est pas la tromperie.
 C’est la délégation.
+
 À mesure que la cohérence est externalisée, la capacité
 humaine à interroger les prémisses s’atrophie. Les décisions
 sont confiées à des systèmes dont la confiance ne dérive pas
 d’un accès épistémique au réel, mais d’une stabilité statistique.
 Le risque n’est pas que l’IA mente, mais qu’elle convainque
 — parce qu’elle fonctionne trop bien.
+
 Introduire la mécroyance dans le raisonnement des systèmes
 d’IA ne vise ni à leur conférer une conscience de soi ni un
 scepticisme artificiel. Il s’agit d’introduire une distinction
@@ -2539,6 +2711,7 @@ entre cohérence interne et adéquation épistémique. Un système
 sensible à la mécroyance ne se contente pas de demander si
 une réponse est correcte ; il examine si le cadre qui l’a
 produite pourrait être structurellement désaligné.
+
 Une telle distinction déplace le lieu de l’évaluation. Au lieu de
 corriger des erreurs isolées, le système devient capable de
 signaler une incertitude au niveau des prémisses. Il peut
@@ -2546,6 +2719,7 @@ indiquer lorsque ses conclusions dépendent de définitions
 héritées, de cadrages par défaut ou de présupposés non
 examinés — conditions dans lesquelles la cohérence peut
 persister malgré un désalignement.
+
 Les conséquences sont concrètes. Plutôt que d’accroître la
 confiance par répétition, une architecture attentive à la
 mécroyance peut faire apparaître des cadrages alternatifs,
@@ -2560,6 +2734,7 @@ mais avec la conscience de la fragilité des cadres dans lesquels
 il opère. Cela permet un jugement calibré plutôt que des
 verdicts absolus, et réduit l’illusion d’immunité épistémique
 souvent associée à l’automatisation fluide.
+
 Dans des environnements multi-systèmes, le concept devient
 plus décisif encore. Lorsque des IA s’appuient de plus en plus
 sur les productions d’autres IA, la cohérence risque de devenir
@@ -2574,26 +2749,32 @@ entre compréhension et adéquation fonctionnelle. En
 automatisant la cohérence, l’IA révèle combien aisément le
 sens se stabilise sans alignement — et combien rarement cette
 stabilisation est interrogée.
+
 Raisonner avec la mécroyance ne revient donc pas à affaiblir
 l’intelligence artificielle, mais à la discipliner. Cela équipe les
 systèmes pour reconnaître la différence entre produire du sens
 et posséder une insight, entre générer des réponses et habiter
 un monde que ces réponses présupposent silencieusement.
 L’IA n’échappe pas à la mécroyance.
+
 Elle devient capable d’indiquer où elle y réside déjà.
 Ce qui se déplace ici n’est pas l’écriture, mais l’autorité même
 de l’auteur.
 Dans un monde où les machines peuvent écrire, l’auctorialité
 n’appartient plus à ceux qui produisent des phrases, mais à
 ceux qui imposent la nécessité.
+
 Boucles de cohérence
+
 Plausibilité auto-renforcée dans des environnements
 multi-systèmes
+
 Un risque supplémentaire apparaît lorsque les systèmes d’IA
 s’appuient de plus en plus sur des contenus générés par
 d’autres systèmes d’IA. Dans ces environnements, la
 cohérence n’est plus seulement produite ; elle devient
 récursive.
+
 Des textes générés par l’IA sont indexés, résumés, reformulés,
 puis réintégrés comme données d’entraînement ou comme
 contexte d’entrée. Les citations ne renvoient plus à un
@@ -2601,12 +2782,14 @@ jugement humain ni à un ancrage empirique, mais à des
 occurrences antérieures de plausibilité machinique. Il n’en
 résulte pas nécessairement du faux explicite, mais des circuits
 fermés de production de sens.
+
 Ces boucles de cohérence ne requièrent aucune erreur
 ponctuelle. Chaque étape peut être localement raisonnable,
 contextuellement appropriée et statistiquement soutenue.
 Pourtant, au niveau systémique, la référence au réel s’affaiblit
 tandis que l’alignement interne se renforce. La plausibilité
 devient auto-validante.
+
 La mécroyance offre un nom précis à ce phénomène. Le
 système ne « croit » pas faux et ne trompe pas. Il habite un
 cadre dont la cohérence interne se stabilise d’autant plus que la
@@ -2620,17 +2803,21 @@ les cadrages alternatifs sont absorbés comme de simples
 variations stylistiques plutôt que comme des défis
 épistémiques. Le système ne résiste pas à la correction — il la
 rend inintelligible.
+
 C’est une mécroyance sans sujet : une mécompréhension
 structurelle opérant comme infrastructure.
+
 Ces boucles brouillent également la distinction entre source et
 validation. Lorsque la cohérence est confirmée à répétition par
 une cohérence antérieure, l’autorité migre de l’ancrage
 empirique vers la consistance interne. Ce qui apparaît comme
 convergence n’est souvent qu’un renforcement circulaire.
+
 À ce stade, la plausibilité ne rivalise plus avec le réel ; elle s’y
 substitue comme critère opératoire. Le système ne s’éloigne
 pas de la vérité par l’erreur, mais par l’isolement. La référence
 s’érode non par contradiction, mais par redondance.
+
 Ce qui se stabilise n’est plus une croyance, mais
 l’intelligibilité elle-même. La boucle n’affirme pas qu’une
 chose est vraie ; elle garantit simplement que rien d’autre ne
@@ -2641,39 +2828,47 @@ contact, un sens maintenu sans monde.
 Implications opérationnelles
 
 De la correction d’erreur à la vigilance des cadres
+
 Si la mécroyance désigne un risque structurel plutôt qu’une
 défaillance isolée, la mitigation ne peut se limiter à la
 vérification des sorties ou au fact-checking. Le niveau
 pertinent d’intervention est en amont.
+
 Trois implications en découlent.
+
 Premièrement, les systèmes d’IA doivent être audités non
 seulement pour leur exactitude, mais pour leur dépendance aux
 prémisses. Les sorties devraient pouvoir être reliées aux choix
 définitionnels, aux cadrages par défaut et aux hypothèses
 héritées qui déterminent la pertinence avant même que
 l’inférence ne commence.
+
 Deuxièmement, le prompting et l’évaluation multi-cadres ne
 doivent pas être traités comme un simple enrichissement
 stylistique, mais comme un test de résistance épistémique. Des
 cadrages divergents exposent la fragilité de la cohérence et
 révèlent les points où les conclusions dépendent davantage de
 l’architecture que des preuves.
+
 Troisièmement, l’ancrage doit être compris au sens large —
 non comme simple citation ou liaison à des données, mais
 comme résistance. Les systèmes devraient être conçus pour
 rencontrer de la friction : des signaux qui interrompent la
 fluidité, marquent l’incertitude et indiquent les moments où la
 confiance excède la garantie épistémique.
+
 Ces mesures n’éliminent pas la mécroyance.
 Elles la rendent visible.
 IA, certitude et confort de la cohérence
 Couplage épistémique humain–IA et automatisation
 de la confiance
+
 L’intelligence artificielle ne se trompe pas comme l’humain se
 trompe. Elle n’hésite pas, ne projette pas d’intentions, ne
 s’attache pas affectivement à ses croyances. Son risque
 épistémique se situe ailleurs : dans la facilité avec laquelle la
 cohérence devient certitude.
+
 Les systèmes d’IA sont conçus pour produire des sorties qui «
 tiennent ». Ils optimisent la consistance interne, la pertinence
 contextuelle et la continuité du sens. Lorsque ces conditions
@@ -2682,6 +2877,7 @@ se manifeste. La compréhension paraît complète parce
 qu’aucune interruption ne survient. Il ne s’agit pas de
 tromperie, mais de confort : un état où la cohérence se
 substitue silencieusement à l’adéquation.
+
 Ce mécanisme prolonge une tendance ancienne de la cognition
 humaine. Face à la complexité, la cohérence tend déjà à
 remplacer l’alignement avec le réel comme critère pratique de
@@ -2692,6 +2888,7 @@ en fonction de ses productions. La fluidité — élégance
 syntaxique, complétude argumentative, adéquation
 contextuelle — devient un substitut de compréhension. Ce qui
 sonne juste en vient à valoir comme juste.
+
 Du point de vue de la mécroyance, ce glissement n’exige ni
 ignorance ni mauvaise foi. Les utilisateurs peuvent rester
 sincères, attentifs et rationnels tout en opérant dans des cadres
@@ -2701,6 +2898,7 @@ d’optimisation. La cohérence est produite plus vite que ses
 conditions ne peuvent être interrogées. Ce que la cognition
 humaine stabilise lentement, l’IA le stabilise immédiatement
 — et à grande échelle.
+
 La certitude, ici, ne provient pas d’un accès à la vérité. Elle
 naît de l’absence de friction. Lorsque les prémisses s’ajustent
 sans heurt, que les inférences s’enchaînent sans rupture et que
@@ -2709,6 +2907,7 @@ ni l’utilisateur ne rencontrent de raison de suspendre leur
 assentiment. Rien ne distingue alors « cela fait sens » de « cela
 est adéquat ». La cohérence devient par défaut le critère du
 correct.
+
 C’est précisément là que la mécroyance opère.
 Elle ne désigne pas le faux. Elle nomme une condition dans
 laquelle la cohérence devient suffisante — où le bon
@@ -2718,6 +2917,7 @@ accidentelle ; elle est structurellement produite. La fluidité est
 récompensée, la stabilité optimisée, la résistance minimisée.
 Plus un système fonctionne bien, moins ses hypothèses sont
 visibles.
+
 Introduire la mécroyance dans le raisonnement de l’IA ne
 revient pas à instiller un scepticisme généralisé. Il s’agit de
 cibler la source même de la confiance. Non pas seulement
@@ -2726,6 +2926,7 @@ cohérence est possible — et ce qui a été neutralisé pour qu’elle
 le soit. L’évaluation se déplace des sorties vers les
 architectures, des réponses vers les mondes que ces réponses
 présupposent silencieusement.
+
 Un système attentif à la mécroyance n’affaiblit pas la décision
 ; il la reconfigure. Il peut encore recommander, prédire,
 évaluer — mais en indiquant d’où provient sa confiance :
@@ -2733,6 +2934,7 @@ cadrages hérités, hypothèses par défaut, régularités stabilisées
 dans les données. Il devient capable de signaler lorsque la
 certitude reflète une clôture architecturale plutôt qu’un ancrage
 probant.
+
 Cette distinction a des conséquences éthiques. Lorsque les
 productions d’IA offrent une cohérence sans marquer la
 fragilité de leurs prémisses, elles encouragent la délégation
@@ -2762,12 +2964,15 @@ ancien. En automatisant la cohérence, elle contraint à affronter
 une confusion déjà enracinée dans l’entendement humain : la
 facilité avec laquelle l’adéquation fonctionnelle se fait passer
 pour une compréhension véritable.
+
 Raisonner avec la mécroyance ne revient donc pas à affaiblir
 les systèmes d’IA, mais à discipliner leur autorité.
 L’évaluation se déplace des réponses vers les architectures,
 des sorties vers les mondes que ces sorties présupposent
 silencieusement.
+
 L’IA n’échappe pas à la mécroyance.
+
 Elle nous enseigne combien il est aisé d’oublier que nous y
 sommes déjà.
 La mécroyance offre à l’intelligence artificielle une couche
@@ -2781,6 +2986,7 @@ expliciter ses dépendances héritées et indiquer où la critique
 devrait s’exercer pour transformer ses conclusions.
 En ce sens, la mécroyance ne rend pas l’IA plus intelligente —
 elle rend son intelligence interruptible.
+
 Elle l’empêche de devenir ce qu’elle n’a jamais été destinée à
 être : une source incontestable de vérité.
 
