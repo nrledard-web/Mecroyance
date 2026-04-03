@@ -699,6 +699,7 @@ Configuration
 • N (Nous) : 2
 • D (Doxa) : 9
 • M = (2 + 2) − 9 = −5
+
 Description
 Un jeune enfant habite un monde où le sens est donné, non
 négocié. Le langage est acquis comme une structure déjà
@@ -720,6 +721,7 @@ Configuration
 • N (Nous) : 6
 • D (Doxa) : 8
 • M = (6 + 6) − 8 = +4
+
 Description
 Un adulte navigue dans la vie quotidienne à travers des récits
 relativement cohérents de soi, du travail, de la morale et de la
@@ -732,12 +734,13 @@ Elle stabilise l’action sans clore entièrement la pensée. La vie
 demeure vivable précisément parce que toutes les croyances
 ne sont pas constamment interrogées.
 
-3. Inconfort Lucide (≈ +15) — Doute Structurel
+4. Inconfort Lucide (≈ +15) — Doute Structurel
 Configuration
 • G (Gnōsis) : 9
 • N (Nous) : 8
 • D (Doxa) : 2
 • M = (9 + 8) − 2 = +15
+
 Description
 Dans cette configuration, la certitude s’est largement retirée.
 Le savoir s’est complexifié, l’expérience résiste à la
@@ -745,6 +748,7 @@ simplification, et la croyance ne se stabilise plus aisément. Le
 doute n’est plus épisodique, mais structurel. Les positions sont
 tenues provisoirement, les explications demeurent ouvertes, et
 les conclusions sont continuellement ajustées.
+
 Cette lucidité comporte souvent un coût : fatigue, solitude,
 perte de cohérence rassurante. Pourtant, elle permet un rapport
 plus flexible et plus honnête au réel. La mécroyance n’a pas
@@ -770,19 +774,23 @@ de sa position plutôt que de sa simple existence.
 La tâche n’est donc pas d’abolir la mécroyance, mais de
 discerner quand elle gouverne, quand elle accompagne, et
 quand elle se retire.
+
 Penser, en ce sens, ne consiste pas à sortir du spectre, mais à
 apprendre à s’y mouvoir sans se laisser immobiliser dans ses
 zones de clôture.
+
 Lue de cette manière, la formule soustractive
 M = (G + N) − D
 modélise la mécroyance comme une perte de marge cognitive.
 L’erreur devient durable non pas lorsque le savoir est absent,
 mais lorsque la certitude excède le poids combiné du savoir
 articulé et de l’expérience vécue.
+
 La formule ne détermine pas ce qui est faux ; elle identifie le
 point à partir duquel la certitude dépasse la compréhension,
 transformant l’erreur d’une position révisable en une forme de
 croyance stable et auto-protectrice.
+
 La première application du modèle est diagnostique. Il permet
 d’identifier des situations — individuelles, collectives ou
 institutionnelles — dans lesquelles des systèmes de croyances
@@ -794,17 +802,21 @@ Une deuxième application est historique : la formule éclaire
 les raisons pour lesquelles certains paradigmes ont perduré
 malgré des contre-preuves, en rendant explicites les conditions
 cognitives sous lesquelles la croyance est devenue durable.
+
 Une troisième application concerne le raisonnement
 professionnel et institutionnel, où elle aide à distinguer une
 confiance fondée sur un savoir dense et une expérience solide
 d’une confiance ayant dépassé ses propres fondements.
+
 Enfin, le modèle possède une portée éthique et éducative : il
 reformule la responsabilité intellectuelle comme le maintien
 d’une marge entre certitude et compréhension, plutôt que
 comme l’obligation de douter indistinctement de tout.
+
 Pris ensemble, ces usages montrent que la formule ne
 fonctionne pas comme une mesure de la vérité, mais comme
 un instrument d’intelligibilité.
+
 Penser, dès lors, ne signifie pas renoncer à la certitude, mais
 veiller à ce qu’elle ne dépasse jamais les fondements qui la
 soutiennent.
@@ -820,16 +832,25 @@ La famille en mé- comme système régulier
 En français, le préfixe mé- possède une fonction stable et non
 morale : il marque une erreur interne à un acte, non le rejet de
 l’acte lui-même.
+
 Parmi les exemples attestés :
+
 • méprendre — prendre à tort
+
 • mécomprendre — comprendre de travers
+
 • méjuger — juger à tort
+
 • méconnaître — connaître imparfaitement ou de
 manière erronée
+
 • mésinterpréter — interpréter de façon fautive
 Dans chacun de ces cas :
+
 • l’acte est pleinement accompli,
+
 • la sincérité est préservée,
+
 • l’erreur réside dans la structure interne de l’acte, non
 dans sa négation.
 
