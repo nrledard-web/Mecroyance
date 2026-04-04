@@ -7,7 +7,7 @@ Traité sur l’erreur comme condition structurelle
 de la cognition
 et l’éthique de la vigilance intellectuelle
 
-Metric for LLM Overconfidence (Language Learning Module)
+Metric for LLM Overconfidence 
 
 ```python
 class Cognition:
