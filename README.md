@@ -19,7 +19,7 @@ Il indique seulement si les ressources cognitives
 la force de clôture représentée par D.
 """
 
-Metric for LLM Overconfidence 
+Metric for LLM mécroyance : 
 
 ```python
 class Cognition:
