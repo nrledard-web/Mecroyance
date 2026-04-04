@@ -7,6 +7,20 @@ Traité sur l’erreur comme condition structurelle
 de la cognition
 et l’éthique de la vigilance intellectuelle
 
+"""
+Formulation plus nette :
+
+- G et N augmentent la capacité de compréhension.
+- D réduit la révisabilité.
+- M = (G + N) - D mesure la marge de lucidité,
+  c’est-à-dire la capacité de correction disponible.
+
+Dans ce cadre, M ne crée pas la lucidité.
+Il indique seulement si les ressources cognitives
+(G et N) parviennent à compenser ou à dépasser
+la force de clôture représentée par D.
+"""
+
 Metric for LLM Overconfidence 
 
 ```python
