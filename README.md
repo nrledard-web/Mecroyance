@@ -193,6 +193,7 @@ Elle identifie le moment où un système cognitif ne peut plus détecter ses pro
 La mécroyance survient lorsque la cohérence dépasse la capacité du système à se réviser lui-même.
 ###
 ```
+}
 
 
 Édition
