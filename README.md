@@ -3,6 +3,7 @@ Un code qui introduit la mécroyance comme concept désignant une condition stru
 
 LA MÉCROYANCE
 ou M = (G + N) − D
+
 Traité sur l’erreur comme condition structurelle
 de la cognition
 et l’éthique de la vigilance intellectuelle
