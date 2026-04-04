@@ -1,3 +1,86 @@
+class Mecroyance:
+    """
+    La mécroyance désigne une condition structurelle de la cognition :
+    l’adhésion sincère et cohérente à un cadre interprétatif dont les prémisses
+    fondamentales demeurent erronées, incomplètes ou insuffisamment interrogées,
+    sans intention de tromper ni de rejeter la vérité.
+
+    Formule :
+        M = (G + N) - D
+
+    Variables :
+        G : gnōsis
+            Savoir articulé, explicitable, transmissible.
+
+        N : nous
+            Intégration vécue, expérientielle et structurante de ce savoir.
+
+        D : doxa
+            Degré de certitude stabilisée, de rigidité ou de clôture
+            du cadre interprétatif.
+
+        M : marge de lucidité
+            Capacité de correction encore disponible au sein
+            d’un système cognitif.
+
+    Interprétation conceptuelle :
+        - G et N augmentent la capacité de compréhension.
+        - D réduit la révisabilité.
+        - M ne produit pas la lucidité ; il en indique la marge possible.
+        - Lorsque D > (G + N), la cognition tend à se fermer sur elle-même.
+        - Lorsque (G + N) > D, une capacité réelle de révision demeure.
+    """
+
+    def __init__(self, g: float, n: float, d: float):
+        self.g = g  # gnōsis
+        self.n = n  # nous
+        self.d = d  # doxa
+
+    def calculer_marge_lucidite(self) -> float:
+        """
+        Calcule la marge de lucidité selon la formule :
+            M = (G + N) - D
+        """
+        return (self.g + self.n) - self.d
+
+    def interpretation(self) -> str:
+        """
+        Retourne une interprétation qualitative du résultat.
+        """
+        m = self.calculer_marge_lucidite()
+
+        if self.d > (self.g + self.n):
+            return (
+                f"M = {m:.2f} : la certitude excède les ressources cognitives disponibles. "
+                "La cognition tend à se fermer sur elle-même ; la cohérence subsiste, "
+                "mais la correction devient difficile."
+            )
+        elif (self.g + self.n) > self.d:
+            return (
+                f"M = {m:.2f} : les ressources cognitives compensent ou dépassent "
+                "la force de clôture exercée par la certitude. "
+                "Une capacité réelle de révision et d’ouverture au réel demeure."
+            )
+        else:
+            return (
+                f"M = {m:.2f} : équilibre critique entre compréhension et certitude. "
+                "La cognition reste stable, mais la marge de correction est minimale."
+            )
+
+
+# Exemple d'utilisation
+if __name__ == "__main__":
+    mecanisme = Mecroyance(g=7, n=6, d=10)
+
+    print("=== Modèle de la mécroyance ===")
+    print(f"G (gnōsis) : {mecanisme.g}")
+    print(f"N (nous)   : {mecanisme.n}")
+    print(f"D (doxa)   : {mecanisme.d}")
+    print(f"M          : {mecanisme.calculer_marge_lucidite():.2f}")
+    print(mecanisme.interpretation())
+
+
+
 # Mecroyance
 Un code qui introduit la mécroyance comme concept désignant une condition structurelle de la cognition : l’adhésion sincère et cohérente à un cadre dont les prémisses fondamentales demeurent erronées, incomplètes ou insuffisamment interrogées, sans intention de tromper ni de rejeter la vérité. Modélisé par la formule  M = (G + N) − D 
 
