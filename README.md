@@ -10,7 +10,6 @@ Historiquement associé à l'idée d'une erreur interne à un système de croyan
 
 Cette réappropriation lexicale n'est pas anodine. Elle rappelle que certains mots anciens portent déjà en eux une intuition conceptuelle que la pensée contemporaine peut redécouvrir et transformer. En ressuscitant ce terme, l'auteur ne se contente pas d'introduire un concept : il montre comment le langage lui-même peut devenir un instrument de clarification philosophique.
 
-"""
 **Traité sur l’erreur comme condition structurelle de la cognition et l’éthique de la vigilance intellectuelle  
 Modélisé par la formule M = (G + N) − D**
 """
