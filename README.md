@@ -463,6 +463,11 @@ Là encore, aucun calcul n’est effectué. La formule rend visible
 une relation structurelle irréductible à chacun des termes pris
 séparément.
 
+Dans ce sens, je propose :
+Calibration ≈ |Confiance − Précision réelle|
+Autrement dit :
+la calibration mesure l’écart entre le degré de certitude exprimé et l’exactitude observée.
+
 Ces exemples appartiennent à une famille d’« équations
 heuristiques » : constructions symboliques articulant des
 relations, tensions et conditions d’émergence sans recours à
