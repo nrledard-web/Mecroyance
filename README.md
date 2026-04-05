@@ -34,7 +34,7 @@ Dans ce cadre, M ne crée pas la lucidité.
 Il indique seulement si les ressources cognitives
 (G et N) parviennent à compenser ou à dépasser
 la force de clôture représentée par D.
-"""
+
 
 Metric for LLM mécroyance : 
 
