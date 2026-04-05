@@ -37,6 +37,7 @@ Il indique seulement si les ressources cognitives
 (G et N) parviennent à compenser ou à dépasser
 la force de clôture représentée par D.
 
+Cette formule peut entre autres servir à analyser ou évaluer le comportement cognitif d’un LLM.
 
 Metric for LLM mécroyance : 
 
