@@ -425,7 +425,8 @@ désigner une forme stabilisée de mécompréhension, c’est
 contraindre la pensée à de fausses alternatives.
 La mécroyance ne clôt pas l’enquête. Elle la rouvre là où elle
 était auparavant bloquée par une mauvaise classification.
-q< Formalisation qualitative et filiation
+
+Formalisation qualitative et filiation
 philosophique
 
 Une telle formulation symbolique n’est ni inédite ni
