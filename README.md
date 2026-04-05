@@ -1848,11 +1848,9 @@ Bien que ces mécanismes existent, ils demeurent insuffisants pour expliquer la 
 
 Leur résilience provient d’une autre source : elles fonctionnent comme des cadres cohérents de compréhension.
 Du point de vue de la mécroyance, l’idéologie apparaît non pas principalement comme une fausseté imposée, mais comme une incompréhension structurelle stabilisée socialement. Elle fournit une suffisance explicative, réduit l’incertitude interprétative et coordonne les attentes à l’échelle de vastes populations. Fait crucial, elle y parvient sans nécessiter une application constante de la contrainte. Les individus habitent l’idéologie non parce qu’ils sont trompés, mais parce que ce cadre rend le monde intelligible, praticable et moralement lisible.
-
 L’idéologie, en ce sens, n’est pas un mensonge auquel les gens croient.
 C’est un monde dans lequel ils peuvent vivre.
-Cohérence idéologique et neutralisation de
-l’anomalie
+Cohérence idéologique et neutralisation de l’anomalie
 
 Un trait distinctif de la mécroyance idéologique réside dans sa
 capacité à absorber la contradiction sans se déstabiliser. Les
@@ -2119,8 +2117,7 @@ réside précisément dans leur discrétion. Ils ne sont pas
 argumentés ; ils sont présupposés. À l’instar du dogme
 religieux, leur fonction n’est pas d’expliquer exhaustivement
 le monde, mais de stabiliser l’attente et de justifier l’action. Ils
-rendent des systèmes sociaux complexes praticables en
-réduisant l’ambiguïté.
+rendent des systèmes sociaux complexes praticables en réduisant l’ambiguïté.
 
 Du point de vue de la mécroyance, les idéologies séculières ne
 persistent pas malgré la contradiction, mais à travers elle. Leur
