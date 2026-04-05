@@ -1,3 +1,6 @@
+texte = """
+# **Mécroyance**
+"""
 La réappropriation de l'auteur
 
 L'auteur entreprend ici une démarche singulière : celle de réhabiliter et de recontextualiser un ancien terme du français, longtemps chargé d'un poids historique lié aux persécutions religieuses. Plutôt que d'inventer un néologisme pur, il ressuscite un mot oublié — mécroire et mécroyance — pour lui donner une portée conceptuelle nouvelle.
