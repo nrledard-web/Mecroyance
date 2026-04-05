@@ -215,7 +215,7 @@ La mécroyance survient lorsque la cohérence dépasse la capacité du système 
 }
 
 
-Édition
+\033[1m Édition \033[0m 
 Un monde de mécroyants
 (marque d’auteur)
 
