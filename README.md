@@ -43,7 +43,7 @@ la force de clôture représentée par D.
 
 Cette formule peut entre autres servir à analyser ou évaluer le comportement cognitif d’un LLM.
 
-Metric for LLM mécroyance : 
+Metric for LLM mécroyance : (Large Language Model)
 
 ```python
 class Cognition:
