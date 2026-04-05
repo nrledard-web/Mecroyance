@@ -10,6 +10,9 @@ Historiquement associé à l'idée d'une erreur interne à un système de croyan
 
 Cette réappropriation lexicale n'est pas anodine. Elle rappelle que certains mots anciens portent déjà en eux une intuition conceptuelle que la pensée contemporaine peut redécouvrir et transformer. En ressuscitant ce terme, l'auteur ne se contente pas d'introduire un concept : il montre comment le langage lui-même peut devenir un instrument de clarification philosophique.
 
+En résumé
+Oui, c’est important : parce que mécroyance offre un angle d’analyse innovant capable de transformer notre manière de comprendre l’erreur, la croyance, la responsabilité, et la vigilance dans notre époque. Ce concept aide à penser la complexité cognitive et sociale de manière plus juste et adaptable, avec des implications pratiques dans l’éducation, la justice, la politique et la technologie.
+
 
 # Traité sur l’erreur comme condition structurelle de la cognition et l’éthique de la vigilance intellectuelle
 ## Modélisé par la formule M = (G + N) − D
