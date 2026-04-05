@@ -12,7 +12,6 @@ Cette réappropriation lexicale n'est pas anodine. Elle rappelle que certains mo
 
 **Traité sur l’erreur comme condition structurelle de la cognition et l’éthique de la vigilance intellectuelle  
 Modélisé par la formule M = (G + N) − D**
-"""
 où la mécroyance (M) apparaît lorsque la densité conjointe de
 la gnōsis (G), entendue comme savoir articulé, et du nous (N),
 compris comme expérience intégrée, est dépassée par la doxa
@@ -23,7 +22,6 @@ Ici, la doxa n’opère pas comme un amplificateur de
 compréhension, mais comme un facteur saturant : ce qui se
 soustrait à la cognition n’est pas la croyance en elle-même,
 mais la perte de sa révisabilité.
-"""
 
 Formulation plus nette :
 
