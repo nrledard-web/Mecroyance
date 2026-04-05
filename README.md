@@ -1,10 +1,31 @@
+La réappropriation de l'auteur
+
+L'auteur entreprend ici une démarche singulière : celle de réhabiliter et de recontextualiser un ancien terme du français, longtemps chargé d'un poids historique lié aux persécutions religieuses. Plutôt que d'inventer un néologisme pur, il ressuscite un mot oublié — mécroire et mécroyance — pour lui donner une portée conceptuelle nouvelle.
+
+Dans cette perspective, la mécroyance ne renvoie plus à une accusation religieuse, mais à une condition cognitive : l'adhésion sincère et cohérente à un cadre de compréhension dont les prémisses demeurent erronées, incomplètes ou insuffisamment interrogées.
+
+Historiquement associé à l'idée d'une erreur interne à un système de croyance, le terme retrouve aujourd'hui une profondeur inattendue. Il ne désigne plus simplement une accusation religieuse, mais la situation dans laquelle une pensée demeure cohérente tout en reposant sur des prémisses erronées ou insuffisamment interrogées.
+
+Cette réappropriation lexicale n'est pas anodine. Elle rappelle que certains mots anciens portent déjà en eux une intuition conceptuelle que la pensée contemporaine peut redécouvrir et transformer. En ressuscitant ce terme, l'auteur ne se contente pas d'introduire un concept : il montre comment le langage lui-même peut devenir un instrument de clarification philosophique.
+
 # Mecroyance
-Un code qui introduit la mécroyance comme concept désignant une condition structurelle de la cognition : l’adhésion sincère et cohérente à un cadre dont les prémisses fondamentales demeurent erronées, incomplètes ou insuffisamment interrogées, sans intention de tromper ni de rejeter la vérité. Modélisé par la formule  M = (G + N) − D 
+Un code qui introduit la mécroyance comme concept désignant une condition structurelle de la cognition : l’adhésion sincère et cohérente à un cadre dont les prémisses fondamentales demeurent erronées, incomplètes ou insuffisamment interrogées, sans intention de tromper ni de rejeter la vérité. 
 
 Traité sur l’erreur comme condition structurelle
 de la cognition
-et l’éthique de la vigilance intellectuelle
+et l’éthique de la vigilance intellectuelle 
+Modélisé par la formule  M = (G + N) − D
 
+où la mécroyance (M) apparaît lorsque la densité conjointe de
+la gnōsis (G), entendue comme savoir articulé, et du nous (N),
+compris comme expérience intégrée, est dépassée par la doxa
+(D) — certitude stabilisée fonctionnant comme une force de
+clôture plutôt que d’illumination.
+
+Ici, la doxa n’opère pas comme un amplificateur de
+compréhension, mais comme un facteur saturant : ce qui se
+soustrait à la cognition n’est pas la croyance en elle-même,
+mais la perte de sa révisabilité.
 """
 Formulation plus nette :
 
