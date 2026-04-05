@@ -24,6 +24,7 @@ compréhension, mais comme un facteur saturant : ce qui se
 soustrait à la cognition n’est pas la croyance en elle-même,
 mais la perte de sa révisabilité.
 """
+
 Formulation plus nette :
 
 - G et N augmentent la capacité de compréhension.
