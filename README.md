@@ -1,6 +1,5 @@
 # Mécroyance
 
-"""
 Modèle structurel de la révisabilité cognitive
 M = (G + N) − D
 
@@ -13,7 +12,7 @@ Applicable à :
 - les idéologies
 - les institutions
 - les grands modèles de langage (LLM)
-"""
+
 
 # La réappropriation de l’auteur
 
