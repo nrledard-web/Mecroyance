@@ -215,12 +215,14 @@ La mécroyance survient lorsque la cohérence dépasse la capacité du système 
 
 
 
- """
+texte = """
 **Édition**  
 **Un monde de mécroyants**
 
 **Mots-clés :**
 """
+
+print(texte)
 
 Épistémologie ; Philosophie de l’esprit ; Architecture
 cognitive ; Intelligence artificielle ; Langage ; Idéologie ;
