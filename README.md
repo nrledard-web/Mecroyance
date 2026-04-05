@@ -1,17 +1,19 @@
 # Mécroyance
 
-### Structural Model of Cognitive Revisability
+"""
+Modèle structurel de la révisabilité cognitive
+M = (G + N) − D
 
-**M = (G + N) − D**
+Une métrique conceptuelle destinée à analyser la clôture cognitive
+et la révisabilité des systèmes de raisonnement.
 
-A conceptual metric for analyzing cognitive closure and revisability in reasoning systems.
+Applicable à :
 
-Applicable to:
-
-- human cognition
-- ideologies
-- institutions
-- large language models (LLMs)
+- la cognition humaine
+- les idéologies
+- les institutions
+- les grands modèles de langage (LLM)
+"""
 
 # La réappropriation de l’auteur
 
