@@ -213,8 +213,12 @@ La mécroyance survient lorsque la cohérence dépasse la capacité du système 
 ###
 ```
 
-Édition 
-Un monde de mécroyants
+texte = """
+### Édition
+## Un monde de mécroyants
+"""
+
+print(texte)
 
 Mots-clés :
 
