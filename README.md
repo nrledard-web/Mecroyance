@@ -462,7 +462,7 @@ Là encore, aucun calcul n’est effectué. La formule rend visible
 une relation structurelle irréductible à chacun des termes pris
 séparément.
 
-Dans ce sens, je propose :
+On pourrait dire aussi simplement :
 Calibration ≈ |Confiance − Précision réelle|
 Autrement dit :
 la calibration mesure l’écart entre le degré de certitude exprimé et l’exactitude observée.
