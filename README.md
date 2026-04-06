@@ -3796,8 +3796,9 @@ Note finale
 # Mécroyance — A Structural Model of Coherent Misunderstanding
 
 
-CODE Python Application 20 questions 
+CODE Python Application mécroyance
 
+Test de calibration cognitive
 
 import streamlit as st
 
