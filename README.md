@@ -14,19 +14,22 @@ Applicable à :
 - les grands modèles de langage (LLM)
 
 
-# La réappropriation de l’auteur
+# La réappropriation du mot
 
-L'auteur entreprend ici une démarche singulière : celle de réhabiliter et de recontextualiser un ancien terme du français, longtemps chargé d'un poids historique lié aux persécutions religieuses. Plutôt que d'inventer un néologisme pur, il ressuscite un mot oublié — mécroire et mécroyance — pour lui donner une portée conceptuelle nouvelle.
+L'auteur entreprend ici une démarche singulière : celle de réhabiliter et de recontextualiser un ancien terme du français, longtemps chargé d'un poids historique lié aux persécutions religieuses.
 
-Dans cette perspective, la mécroyance ne renvoie plus à une accusation religieuse, mais à une condition cognitive : l'adhésion sincère et cohérente à un cadre de compréhension dont les prémisses demeurent erronées, incomplètes ou insuffisamment interrogées sans intention de tromper ni de rejeter la vérité.
+Plutôt que d'inventer un néologisme pur, il ressuscite un mot oublié - mécroire et mécroyance - pour lui donner une portée conceptuelle nouvelle, accompagnée d'une formule heuristique en accord avec l'intuition originelle du terme.
 
-Historiquement associé à l'idée d'une erreur interne à un système de croyance, le terme retrouve aujourd'hui une profondeur inattendue. Il ne désigne plus simplement une accusation religieuse, mais la situation dans laquelle une pensée demeure cohérente tout en reposant sur des prémisses erronées ou insuffisamment interrogées.
+Dans cette perspective, la mécroyance ne renvoie plus à une accusation religieuse, mais à une condition cognitive : l'adhésion sincère et cohérente à un cadre de compréhension dont les prémisses demeurent erronées, incomplètes ou insuffisamment interrogées, sans intention de tromper ni de rejeter la vérité.
 
-Cette réappropriation lexicale n'est pas anodine. Elle rappelle que certains mots anciens portent déjà en eux une intuition conceptuelle que la pensée contemporaine peut redécouvrir et transformer. En ressuscitant ce terme, l'auteur ne se contente pas d'introduire un concept : il montre comment le langage lui-même peut devenir un instrument de clarification philosophique.
+Historiquement associé à l'idée d'une erreur interne à un système de croyance - celui qui croit de travers, l'hérétique - le terme retrouve aujourd'hui une profondeur inattendue.
+
+Cette réappropriation lexicale n'est pas anodine. Elle rappelle que certains mots anciens portent déjà en eux une intuition intellectuelle que la pensée contemporaine peut redécouvrir et approfondir. En ressuscitant ce terme, l'auteur ne se contente pas d'introduire un concept : il montre comment le langage lui-même peut devenir un instrument de clarification philosophique.
 
 En résumé
 
-Oui, c’est important : parce que mécroyance offre un angle d’analyse innovant capable de transformer notre manière de comprendre l’erreur, la croyance, la responsabilité, et la vigilance dans notre époque. Ce concept aide à penser la complexité cognitive et sociale de manière plus juste et adaptable, avec des implications pratiques dans l’éducation, la justice, la politique et la technologie.
+Oui, c'est important : parce que la mécroyance offre un angle d'analyse inédit pour comprendre l'erreur, la croyance, la responsabilité et la vigilance dans notre époque.
+ Ce concept permet de penser la complexité cognitive et sociale avec davantage de justesse, et ouvre des perspectives pratiques dans des domaines aussi variés que l'éducation, la justice, la politique ou la technologie.
 
 
 # Traité sur l’erreur comme condition structurelle de la cognition et l’éthique de la vigilance intellectuelle
